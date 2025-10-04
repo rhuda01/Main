@@ -521,20 +521,12 @@
         "placeVersion": 3510,
         "lastUpdated": "2025-10-04T20:02:48.958Z"
       },
-      "804dc129-abd1-4714-a2b5-731add1864f2": {
-        "placeVersion": 3532,
-        "lastUpdated": "2025-10-04T20:05:10.557Z"
-      },
-      "88d525ec-306b-43f0-bcb4-0d6300bea745": {
-        "placeVersion": 3532,
-        "lastUpdated": "2025-10-04T20:07:21.491Z"
-      },
-      "ec330bd1-d4b8-435d-b004-a78e4203b4ef": {
-        "placeVersion": 3532,
-        "lastUpdated": "2025-10-04T20:08:18.404Z"
+      "a0f9d871-7cc2-4787-ad6a-b4952cba7824": {
+        "placeVersion": 3510,
+        "lastUpdated": "2025-10-04T20:09:02.899Z"
       }
     },
-    "lastUpdated": "2025-10-04T20:08:18.404Z",
+    "lastUpdated": "2025-10-04T20:09:02.899Z",
     "createdAt": "2025-10-04T12:23:33.640Z"
   }
 }
