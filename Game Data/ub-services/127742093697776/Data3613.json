@@ -1,0 +1,5 @@
+{
+  "Rarities": ["Legendary","Secret","Godly","Epic","Mythic","Limited","Rare"],
+  "Mutations": ["Normal","Diamond","Neon","Rainbow","Magma","UpsideDown","Gold","Galactic","Underworld","Frozen"],
+  "Code": ["stacks","frozen","based"]
+}
