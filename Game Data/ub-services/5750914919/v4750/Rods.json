@@ -1,0 +1,2888 @@
+[
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 18,
+      "Luck": 143,
+      "Control": 0.05,
+      "Strength": 400000,
+      "Resilience": 66
+    },
+    "Name": "Necrotic Rod",
+    "Price": null,
+    "ProgressEfficiency": 0.13,
+    "Description": "Only obtainable during FischFright;\nA rod infused with necrotic energy that saps the life from its prey, reeling in fish as their vitality withers away."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 99,
+      "Luck": 150,
+      "Control": 1,
+      "Strength": null,
+      "Resilience": 99
+    },
+    "Name": "Developers Rod",
+    "Price": null,
+    "Description": "A rod made for developers not to have to suffer in fishing."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 5,
+      "Luck": 300,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 0
+    },
+    "Name": "Dead Man's Rod",
+    "Price": null,
+    "Description": "A rod possessed by the soul of Davy Jones [Developer Rod, for @Johnny_D3pp]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 22,
+      "LureSpeed": 90,
+      "Luck": 45,
+      "Control": 0.05,
+      "Strength": 2200,
+      "Resilience": 15
+    },
+    "Name": "Frost Warden Rod",
+    "Price": null,
+    "Description": "A frigid rod wielded by fierce anglers. Built to fish in the coldest of waters."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 100,
+      "Control": 0.4,
+      "Strength": null,
+      "Resilience": 30
+    },
+    "Name": "Mystic Staff",
+    "Price": null,
+    "Description": "A powerful staff once held by a mysterious witch who disappeared without a trace... Strangely, its magic seems to attract fish."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 40,
+      "Luck": 100,
+      "Control": 0.05,
+      "Strength": 3500,
+      "Resilience": 20
+    },
+    "Name": "Riptide Rod",
+    "Price": null,
+    "Passive": "HighTide",
+    "Description": "The Riptide Rod fills its Tide Meter by 1/3 with each Perfect Catch. At max, it enters `High Tide` for 5 casts. This will boost Luck by 30%, & Lure Speed by 25%."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 100,
+      "Control": 0.2,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Original No-Life Rod",
+    "Price": 1,
+    "Passive": "OriginalNoLifeRod",
+    "Description": "Fisching 24/7/365. Are you okay?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Courage Bat",
+    "Price": null,
+    "Description": "cat ur dumb"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 10,
+      "Luck": 125,
+      "Control": 0.2,
+      "Strength": 125000,
+      "Resilience": 20
+    },
+    "Name": "Scarlet Ravager",
+    "Price": null,
+    "ProgressEfficiency": 0.2,
+    "Description": "Forged in fury, this rod tears through the depths like a blade soaked in blood. [TOY-EXCLUSIVE]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 20,
+      "Luck": 999,
+      "Control": -0.37,
+      "Strength": 999999999999999,
+      "Resilience": -500
+    },
+    "Name": "Tryhard Rod",
+    "Price": null,
+    "Passive": "TryhardRod",
+    "ProgressEfficiency": 3,
+    "Description": "Every cast is a challenge. Every catch, a victory. -RoReddo [Controlled/Herculean Enchant REQUIRED]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 45,
+      "LureSpeed": 14,
+      "Luck": 96,
+      "Control": 0.15,
+      "Strength": 200000,
+      "Resilience": 30
+    },
+    "Name": "Bat Whisperer Rod",
+    "Price": null,
+    "Passive": "Bat Whisperer",
+    "ProgressEfficiency": 0.1,
+    "Description": "Only obtainable during FischFright;\nA cursed rod that summons swarms of bats to snatch fish from the water; their numbers multiplying under unknown conditions..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 200,
+      "LureSpeed": 5,
+      "Luck": 175,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 70
+    },
+    "Name": "Cinderstring",
+    "Price": null,
+    "Passive": "Cinderstring",
+    "ProgressEfficiency": 0.1,
+    "Description": "We feel the pain of a lifetime lost in a thousand days..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 19,
+      "LureSpeed": 40,
+      "Luck": 50,
+      "Control": 0,
+      "Strength": 104,
+      "Resilience": 15
+    },
+    "Name": "Adventurer's Rod",
+    "From": "Waveborne",
+    "Price": 0,
+    "Passive": "AdventurersRod",
+    "Description": "It has a feeble, yet strangely familiar feel... Has a 5% chance to equally grant any natural mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 15,
+      "Luck": 115,
+      "Control": 0.15,
+      "Strength": 100000,
+      "Resilience": 15
+    },
+    "Name": "Rose Rend",
+    "Price": null,
+    "ProgressEfficiency": 0.15,
+    "Description": "A thorn-kissed weapon that strikes with the elegance & cruelty of a wilting rose. [TOY-EXCLUSIVE]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 125,
+      "LureSpeed": 10,
+      "Luck": 215,
+      "Control": 0.2,
+      "Strength": null,
+      "Resilience": 50
+    },
+    "Name": "Elder Mossripper",
+    "Price": null,
+    "Passive": "ElderMossripper",
+    "ProgressEfficiency": 0.3,
+    "Description": "Ancient fangs lash at the hooked, forcing weight to rise by 45%. With a 20% rate for Shrouded, and 5% for Moss; the lurking Mossjaw waits to strike..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 40,
+      "LureSpeed": 20,
+      "Luck": 85,
+      "Control": 0.05,
+      "Strength": 1500,
+      "Resilience": 35
+    },
+    "Name": "Frostbane Rod",
+    "Price": 1500000,
+    "Passive": "FrostbaneRod",
+    "Description": "An unwieldy blade laced with frost magic, its true power dormant; until the darkest cold deepens, unlocking a surge of strength few can withstand."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 90,
+      "Luck": -70,
+      "Control": 0.2,
+      "Strength": 9,
+      "Resilience": 20
+    },
+    "Name": "Training Rod",
+    "Price": 300,
+    "Description": "Handy fishing rod for honing your fishing skills. Remember, stay calm."
+  },
+  {
+    "Stats": {
+      "LineDistance": 8623,
+      "LureSpeed": 0,
+      "Luck": 150,
+      "Control": 0.35,
+      "Strength": null,
+      "Resilience": 40
+    },
+    "Name": "???",
+    "Price": null,
+    "Passive": "???",
+    "Description": "a hot, presumably super-sharp blade of 67 [Admin Rod, for @yvlyf]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 40,
+      "Luck": 110,
+      "Control": 0.3,
+      "Strength": 50000,
+      "Resilience": 10
+    },
+    "Name": "Lobster Rod",
+    "From": "Isle of New Beginnings",
+    "Price": null,
+    "Passive": "Lobster",
+    "Description": "As tough as a lobster's shell, built to withstand immense force. Has a 30% chance to apply the Lobster mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 0,
+      "Control": 0.4,
+      "Strength": null,
+      "Resilience": 0
+    },
+    "Name": "Executive Rod",
+    "Price": null,
+    "Description": "Game development is truly difficult.."
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 55,
+      "Luck": 85,
+      "Control": 0.08,
+      "Strength": 300000,
+      "Resilience": 20
+    },
+    "Name": "Voyager Rod",
+    "Price": null,
+    "Passive": "VoyagerRod",
+    "Description": "A rod forged by an ancient civilization, capable of mass destruction. All fish have a 35% chance to be fossilized. [Lasers fish with an orbital cannon]."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 85,
+      "Luck": 80,
+      "Control": 0.1,
+      "Strength": 200,
+      "Resilience": 10
+    },
+    "Name": "Smurf Rod",
+    "Price": null,
+    "Passive": "Smurf",
+    "Description": "Smurf-themed rod with a smiling head and mushroom details. Cute and magical!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 0,
+      "Luck": 500,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 50
+    },
+    "Name": "Fabulous Rod",
+    "Price": null,
+    "Passive": "FabulousRod",
+    "Description": "As fabulous as possible! Actually, even more than that. [For @GreenResolve]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 60,
+      "Luck": 68,
+      "Control": 0.15,
+      "Strength": 65000,
+      "Resilience": 10
+    },
+    "Name": "Avalanche Rod",
+    "Price": 35000,
+    "Passive": "AvalancheRod",
+    "Description": "A sleek rod with an icy blue spiral design and glowing blue accents, has a 25% chance for fish to be covered in Sleet."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 10,
+      "Luck": 105,
+      "Control": 0.23,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "No-Life Rod",
+    "Price": null,
+    "Passive": "NoLifeRod",
+    "Description": "Fisching 24/7/365. Are you okay?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 90,
+      "Luck": 30,
+      "Control": 0.05,
+      "Strength": 1000,
+      "Resilience": 5
+    },
+    "Name": "Event Horizon Rod",
+    "Price": null,
+    "Description": "The powerful black hole within this rod decimates everything in its path. All fish have a 5% chance to be Lunar."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": -250,
+      "Luck": 50,
+      "Control": 0.12,
+      "Strength": 10000,
+      "Resilience": 12
+    },
+    "Name": "Peppermint Rod",
+    "Price": null,
+    "Passive": "PeppermintRod",
+    "Description": "Only obtainable during Fischmas;\nA candy cane radiating icy cheer. All fish have a 25% chance to be Peppermint."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 80,
+      "Luck": 15,
+      "Control": 0,
+      "Strength": 100,
+      "Resilience": 10
+    },
+    "Name": "Plastic Rod",
+    "From": "Moosewood",
+    "Price": 750,
+    "Description": "Made of ABS plastic; You can trust this rod will last you."
+  },
+  {
+    "Stats": {
+      "LineDistance": 21,
+      "LureSpeed": 110,
+      "Luck": 0,
+      "Control": 0.05,
+      "Strength": 10000,
+      "Resilience": 0
+    },
+    "Name": "Magnet Rod",
+    "From": "Terrapin",
+    "Price": 15000,
+    "Description": "This rod has an advanced magnetic field, allowing it to quickly attract crates and loot."
+  },
+  {
+    "Stats": {
+      "LineDistance": 32,
+      "LureSpeed": 55,
+      "Luck": 55,
+      "Control": 0.15,
+      "Strength": 1200,
+      "Resilience": 0
+    },
+    "Name": "Magma Rod",
+    "Price": null,
+    "Passive": "MagmaRod",
+    "Description": "Hot to the touch. Engulfed with a constant burning passion to fish. [Capable of fishing in lava, 35% chance for fish to become mutated with Ember]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 444,
+      "LureSpeed": -19,
+      "Luck": 444,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 44
+    },
+    "Name": "Nates Blade",
+    "Price": null,
+    "Passive": "BloodSword",
+    "ProgressEfficiency": 0.5,
+    "Description": "A sword wielded by the oneand only Nate The human. Created by Nates father, out of Kee-Oths Blood. [For @Woozynate]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 1000,
+      "LureSpeed": -900,
+      "Luck": 1000,
+      "Control": 1,
+      "Strength": null,
+      "Resilience": 1000
+    },
+    "Name": "Illumina",
+    "Price": null,
+    "Passive": "Illumina",
+    "ProgressEfficiency": 10,
+    "Description": "Telamon's favorite weapon from Sword Fight on the Heights. It is light, agile, and deadly."
+  },
+  {
+    "Stats": {
+      "LineDistance": 2525,
+      "LureSpeed": -2425.252525,
+      "Luck": 2525.252525,
+      "Control": 0.25,
+      "Strength": 2525252525,
+      "Resilience": 25.25252525
+    },
+    "Name": "ReRod",
+    "Price": null,
+    "Passive": "ReRod",
+    "Description": "my mom keeps calling me ReRod :d [For @RoReddo]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 21,
+      "LureSpeed": 11,
+      "Luck": 49,
+      "Control": 0,
+      "Strength": 800,
+      "Resilience": 9
+    },
+    "Name": "Rapid Rod",
+    "From": "Roslit",
+    "Price": 12000,
+    "Description": "Extremely fast rod that catches fish at record speeds! -It even has racing wings!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 50,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": 25000,
+      "Resilience": 15
+    },
+    "Name": "Sunken Rod",
+    "From": "Forsaken Shores",
+    "Price": null,
+    "Passive": "SunkenRod",
+    "Description": "An ancient, coral-encrusted rod found in shipwreck depths, radiating faint power to lure rare fish. Every 10 catches, gain a 25% higher chance to pull up a Treasure Map! All fish have a 8% chance to be Sunken."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 20,
+      "Luck": 117,
+      "Control": 0.1,
+      "Strength": 50000,
+      "Resilience": 40
+    },
+    "Name": "Vineweaver Rod",
+    "Price": null,
+    "Passive": "Vineweaver",
+    "Description": "Vines twist across the line, halting prey in its tracks. In the last 30%, the fish is bound, with a 30% chance of gaining a Vined form. [+10% Forced Progress Speed]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 2525,
+      "Luck": 25,
+      "Control": 0.95,
+      "Strength": 252525252525,
+      "Resilience": 252525
+    },
+    "Name": "Patience Rod",
+    "Price": null,
+    "Description": "Endure the wait or catch nothing. -RoReddo"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 30,
+      "Luck": 10,
+      "Control": 0.05,
+      "Strength": 175,
+      "Resilience": -5
+    },
+    "Name": "Fast Rod",
+    "From": "Moosewood",
+    "Price": 4000,
+    "Description": "Quick rod that seems to catch fish in a fly! You can tell it's fast from the racing stripes."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 250,
+      "Control": 0.65,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "CocoRod",
+    "Price": null,
+    "Description": "The Coco-nut-nut is a giant nut. [For @Goober_ish]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 65,
+      "Luck": 45,
+      "Control": 0.15,
+      "Strength": 25000,
+      "Resilience": 15
+    },
+    "Name": "Firework Rod",
+    "Price": 35000,
+    "Passive": "FireworkRod",
+    "Description": "A rod imbued with festive magic. 15% chance for Firework Mutation (3.5x sell price). Reduces whale progress speed by 20% and gives a +0.2% whale encounter rate."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 300,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 50
+    },
+    "Name": "The Twig",
+    "Price": null,
+    "Description": "I think it genuinely may break in two. [WoozyNate Only]"
+  },
+  {
+    "Stats": {
+      "LineDistance": null,
+      "LureSpeed": null,
+      "Luck": 250,
+      "Control": -0.01,
+      "Strength": null,
+      "Resilience": null
+    },
+    "Name": "Silly Fun Happy Rod",
+    "Price": null,
+    "Passive": "SillyFunHappyRod",
+    "ProgressEfficiency": 0.5,
+    "Description": ":P\n[@newandreformedlyth]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 45,
+      "Luck": 170,
+      "Control": 0.15,
+      "Strength": 57000,
+      "Resilience": 20
+    },
+    "Name": "Rod Of The Exalted One",
+    "Price": null,
+    "Description": "Originally created for the most magnificent royals, was lost in time and sealed away. Exalted Relics now have a 4x higher chance to be caught."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 50,
+      "Luck": 225,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 30
+    },
+    "Name": "Clickbait Caster",
+    "Price": null,
+    "Passive": "ContentCreatorEntity",
+    "Description": "Lights, camera, action—now bite already! [CC Only]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 250,
+      "LureSpeed": 0,
+      "Luck": 400,
+      "Control": 0.4,
+      "Strength": null,
+      "Resilience": 40
+    },
+    "Name": "Polaris Serenade",
+    "Price": null,
+    "Passive": "ButterflyEntity",
+    "ProgressEfficiency": 0.3,
+    "Description": "💫"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 20,
+      "Luck": 166,
+      "Control": 0.05,
+      "Strength": 700000,
+      "Resilience": 80
+    },
+    "Name": "Dusekkar Rod",
+    "Price": null,
+    "ProgressEfficiency": 0.25,
+    "Description": "Only obtainable during FischFright;\nHaunted by the fireless spirit of Matt Dusek; this rod is haunted with a spectral blaze..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 90,
+      "Luck": 10,
+      "Control": 0.05,
+      "Strength": 100,
+      "Resilience": 5
+    },
+    "Name": "Fischer's Rod",
+    "Price": null,
+    "Description": "A fischer's starter rod to get started with Fisching! What else would you do with it?.."
+  },
+  {
+    "Stats": {
+      "LineDistance": 555,
+      "LureSpeed": -455,
+      "Luck": 555,
+      "Control": 0.055,
+      "Strength": null,
+      "Resilience": 55
+    },
+    "Name": "Wind Elemental",
+    "Price": null,
+    "Passive": "WindElemental",
+    "Description": "May you slash with all the colors of the wind."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 30,
+      "Luck": 75,
+      "Control": -0.05,
+      "Strength": 1500,
+      "Resilience": 10
+    },
+    "Name": "Paper Fan Rod",
+    "Price": 70000,
+    "Description": "Only obtainable during Fischfest; \nA lightweight paper fan rod that slices through the water, striking fish with swift, cutting blows."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": -20,
+      "Luck": 215,
+      "Control": 0.23,
+      "Strength": null,
+      "Resilience": 66
+    },
+    "Name": "Dreambreaker",
+    "Price": null,
+    "Passive": "Dreambreaker",
+    "ProgressEfficiency": 0.15,
+    "Description": "A rod born of torment and twilight, empowering night fishing with violent surges and larger prey; but twisting the mind with slower progress and unpredictable control."
+  },
+  {
+    "Stats": {
+      "LineDistance": 13,
+      "LureSpeed": 70,
+      "Luck": 85,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 35
+    },
+    "Name": "Kings Rod",
+    "From": "Keepers Altar",
+    "Price": 100000,
+    "Passive": "KingsRod",
+    "Description": "All fish caught are 30% bigger."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 50,
+      "Luck": 170,
+      "Control": -0.2,
+      "Strength": 250000,
+      "Resilience": 150
+    },
+    "Name": "Scarlet Spincaster Rod",
+    "Price": 180000,
+    "Description": "A rod steeped in sanguine essence, pulsing with forbidden vigor and granting a 30% chance for the Crimson mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 60,
+      "Luck": 90,
+      "Control": 0.1,
+      "Strength": 50000,
+      "Resilience": 15
+    },
+    "Name": "Volcanic Rod",
+    "Price": 250000,
+    "Description": "A rod forged in the heart of molten fury, granting a 25% chance for the Ashen Fortune mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 0,
+      "Luck": -50,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 70
+    },
+    "Name": "Demon-Slayer",
+    "Price": null,
+    "ProgressEfficiency": 0.5,
+    "Description": "Designed for cutting magic with its precise edges, although ineffective as a typical sword..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 75,
+      "Control": 0.1,
+      "Strength": 10000,
+      "Resilience": 35
+    },
+    "Name": "Nico's Yarncaster",
+    "Price": null,
+    "Passive": "Nico's Yarncaster",
+    "Description": "a kitty who trots by your side and sneakily snags extra fish when you're not looking!\n[extra power with clownfish cat toy!]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 5,
+      "Luck": 195,
+      "Control": 0.25,
+      "Strength": 250000,
+      "Resilience": 40
+    },
+    "Name": "Ethereal Prism Rod",
+    "Price": 3500000,
+    "Passive": "EtherealPrismRod",
+    "Description": "A rod infused with spectral essence and alluring gems, allowing for 50% of fish to become Prismized."
+  },
+  {
+    "Stats": {
+      "LineDistance": 65,
+      "LureSpeed": 50,
+      "Luck": 165,
+      "Control": 0.2,
+      "Strength": 100000,
+      "Resilience": 40
+    },
+    "Name": "Poseidon Rod",
+    "Price": 700000,
+    "Passive": "PoseidonRod",
+    "Description": "Blessed by the God of the Seas himself, this trident-inspired rod commands the ocean's bounty. 25% chance of receiving 75% of your fish value as a bonus. 10% chance of spawning Poseidon's ghost, giving your fish the King's Blessing mutation which boosts weight by 75-150%."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 15,
+      "Luck": 105,
+      "Control": 0.05,
+      "Strength": null,
+      "Resilience": 40
+    },
+    "Name": "Friendly Rod",
+    "Price": null,
+    "Passive": "FriendlyPassive",
+    "Description": "Made for friends and good times!\nWhile playing with a friend, provides a 10% chance to catch a Friend Fish."
+  },
+  {
+    "Stats": [
+      
+    ],
+    "Name": "UnRegistered"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 15,
+      "Luck": 55,
+      "Control": -0.01,
+      "Strength": 175,
+      "Resilience": 25
+    },
+    "Name": "Firefly Rod",
+    "From": "Waveborne",
+    "Price": 9500,
+    "Passive": "FireflyRod",
+    "ProgressEfficiency": 0.1,
+    "Description": "Humming with energy, and a line glowing like a trail of fireflies in the night. +15% Progress Speed at Night."
+  },
+  {
+    "Stats": {
+      "LineDistance": 125,
+      "LureSpeed": -50,
+      "Luck": 375,
+      "Control": 0.7,
+      "Strength": null,
+      "Resilience": 75
+    },
+    "Name": "Yin Yang Rod",
+    "Price": null,
+    "Passive": "TreeRod",
+    "Description": "i ate a piece of bark, and got poisoned - yvlyf"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 10,
+      "Luck": 112.7,
+      "Control": 0.05,
+      "Strength": 250000,
+      "Resilience": 75
+    },
+    "Name": "Cornucopia Rod",
+    "Price": null,
+    "Passive": "Cornucopia",
+    "Description": "Only obtainable during Fischgiving;\nA bountiful horn-of-plenty rod that spills Fischgiving treats onto fish, making them easy pickings!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 15,
+      "Luck": 155,
+      "Control": 0.25,
+      "Strength": 200000,
+      "Resilience": 65
+    },
+    "Name": "Noctone",
+    "Price": null,
+    "Passive": "Noctone",
+    "Description": "Wherever we end up;\nKnow that you've made your mark..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 25,
+      "Luck": 190,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 35
+    },
+    "Name": "Cerulean Fang Rod",
+    "Price": 800000,
+    "Passive": "CeruleanFangRod",
+    "ProgressEfficiency": 0.15,
+    "Description": "Swift as the spirits, this rod carves through the sea with rapid, cutting precision; its fangs strike fast and unrelenting.\nHas a 15% chance for the Nova mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 19,
+      "LureSpeed": 100,
+      "Luck": 0,
+      "Control": 0,
+      "Strength": 10.4,
+      "Resilience": 0
+    },
+    "Name": "Upside-Down Rod",
+    "Price": 0,
+    "Passive": "UpsideDownRod",
+    "Description": "what happened!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 5,
+      "LureSpeed": 100,
+      "Luck": 0,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 0
+    },
+    "Name": "Part",
+    "Price": null,
+    "Passive": "Part",
+    "Description": "Instance.new(\"Part\",workspace)"
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 25,
+      "Luck": 75,
+      "Control": 0.15,
+      "Strength": 20000,
+      "Resilience": 15
+    },
+    "Name": "Egg Rod",
+    "From": "Isle of New Beginnings",
+    "Price": null,
+    "Passive": "EggRod",
+    "Description": "Cast your bobber for a bite sweeter than chocolate!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 25,
+      "Luck": 66,
+      "Control": 0.2,
+      "Strength": 150000,
+      "Resilience": -10
+    },
+    "Name": "Spooky Rod",
+    "Price": null,
+    "Passive": "Spooky",
+    "ProgressEfficiency": 0.05,
+    "Description": "Only obtainable during FischFright;\nThe rod is cursed with the constant energy of FischFright, allowing it to catch FischFright mutations all year round."
+  },
+  {
+    "Stats": {
+      "LineDistance": 999,
+      "LureSpeed": 0,
+      "Luck": 0,
+      "Control": -0.2,
+      "Strength": 1000000,
+      "Resilience": 100
+    },
+    "Name": "Bone Blade",
+    "Price": 0,
+    "Description": "🦴"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": -50,
+      "Luck": 120,
+      "Control": -0.1,
+      "Strength": null,
+      "Resilience": -10
+    },
+    "Name": "Evil Pitchfork",
+    "Price": null,
+    "Passive": "EvilPitchfork",
+    "ProgressEfficiency": 0.35,
+    "Description": "Cursed by the Deep Below, this twisted trident tempts fate with unnatural fortune. 50% chance to gain 5× your fish's base value, occasionally twisting the gain. 25% chance to summon Poseidon's shade, inflicting the Siren's Spite mutation to greatly increase weight."
+  },
+  {
+    "Stats": {
+      "LineDistance": 10,
+      "LureSpeed": 1600,
+      "Luck": -1500,
+      "Control": -0.3,
+      "Strength": null,
+      "Resilience": -1500
+    },
+    "Name": "Dave Rod",
+    "Price": null,
+    "Description": "PLSS DAVE RODDDD!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 50,
+      "Luck": 60,
+      "Control": 0.21,
+      "Strength": 350000,
+      "Resilience": 25
+    },
+    "Name": "Celestial Rod",
+    "Price": null,
+    "Passive": "CelestialPower",
+    "Description": "After catching 15 fish, summon Celestial powers for 2 minutes, granting +100% Luck & +60% Lure Speed. Caught fish also get the Celestial mutation & +50% XP on them!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 5,
+      "Luck": 500,
+      "Control": 0.08,
+      "Strength": null,
+      "Resilience": 25
+    },
+    "Name": "Ruinous Oath",
+    "Price": 5000000,
+    "Description": "Born from radiant crystals scorched by crimson fury, this blade blazes with unbound strength; its power no longer knows restraint..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 15,
+      "Luck": 100,
+      "Control": 0.1,
+      "Strength": 25000,
+      "Resilience": 12
+    },
+    "Name": "Luminescent Oath",
+    "Price": 1000000,
+    "Description": "Forged from the radiant crystals of the Luminescent Cavern, this blade hums with sealed brilliance; its true power is seemingly forbidden from awakening..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 45,
+      "Luck": 70,
+      "Control": 0.17,
+      "Strength": 70000,
+      "Resilience": 25
+    },
+    "Name": "Depthseeker Rod",
+    "Price": 40000,
+    "ProgressEfficiency": 0.05,
+    "Description": "Engineered with deep-sea technology, this resilient rod thrives in challenging conditions."
+  },
+  {
+    "Stats": {
+      "LineDistance": null,
+      "LureSpeed": 0,
+      "Luck": 100,
+      "Control": 0.5,
+      "Strength": null,
+      "Resilience": 0
+    },
+    "Name": "Stone Hammer",
+    "Price": null,
+    "Description": "i think nick dropped this..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 25,
+      "Luck": 105,
+      "Control": -0.01,
+      "Strength": 200000,
+      "Resilience": 55
+    },
+    "Name": "Azure Of Lagoon",
+    "From": "Azure Lagoon",
+    "Price": 100000,
+    "Passive": "AzureOfLagoon",
+    "Description": "Its delicate form belies a sharp, cutting force with an almost eerie precision. All caught fish become Glossy, & has a chance to slash fish."
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 40,
+      "Luck": 185,
+      "Control": 0.2,
+      "Strength": 115000,
+      "Resilience": 15
+    },
+    "Name": "Kraken Rod",
+    "Price": 950000,
+    "Passive": "KrakenRod",
+    "Description": "Crafted from the tentacle of an ancient Kraken, this mysterious rod pulses with dark energy. Gives you a random Legendary/Mythical/Exotic fish every 5 catches. 20% chance of giving you 2x the amount of fish.  10% chance of giving you the Tentacle Surge mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 80,
+      "LureSpeed": 4,
+      "Luck": 166.6,
+      "Control": 0.16,
+      "Strength": null,
+      "Resilience": 66
+    },
+    "Name": "Jack-o-Blazer",
+    "Price": null,
+    "Passive": "Pumpkin",
+    "ProgressEfficiency": 0.15,
+    "Description": "Only obtainable during FischFright;\nA flame-engulfed rod wreathed in halloween-spirit, launching blazing jack-o-lanterns that explode on impact; incinerating the waters and anything daring to swim within!"
+  },
+  {
+    "Stats": {
+      "LineDistance": null,
+      "LureSpeed": 100,
+      "Luck": 200,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 25
+    },
+    "Name": "Abyssal Spinecaster",
+    "Price": null,
+    "Passive": "ShadowEntity_Raven",
+    "Description": "Transformed from the spine of an ancient, unnatural being. Brimming with an enigmatic aura, its glowing spikes attract the most elusive fishes. [For @nekoanims]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 0,
+      "Luck": 50,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 0
+    },
+    "Name": "Eidolon Rod",
+    "Price": 2000000,
+    "Passive": "Eidolon",
+    "ProgressEfficiency": 0.4,
+    "Description": "A spectral rod infused with phantom energy, hastening progress and drawing forth the Phantom mutation; even completing your catch as reality begins to fade..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 40,
+      "Luck": 150,
+      "Control": 0.1,
+      "Strength": 5000,
+      "Resilience": 10
+    },
+    "Name": "Paleontologist's Rod",
+    "Price": null,
+    "Passive": "Jurassic",
+    "Description": "You chose Paleontologist's Rod in your Jurassic missions!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 40,
+      "Luck": 60,
+      "Control": 0.3,
+      "Strength": 5000,
+      "Resilience": 10
+    },
+    "Name": "Fixer's Rod",
+    "Price": null,
+    "Passive": "Jurassic",
+    "Description": "You chose Fixer's Rod in your Jurassic missions!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 10,
+      "Luck": 125,
+      "Control": 0.3,
+      "Strength": 100000,
+      "Resilience": 15
+    },
+    "Name": "Eardrum",
+    "Price": null,
+    "Passive": "Eardrum",
+    "Description": "Is there no standard anymore?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 40,
+      "LureSpeed": 70,
+      "Luck": 15,
+      "Control": 0.15,
+      "Strength": 50000,
+      "Resilience": 8
+    },
+    "Name": "Krampus's Rod",
+    "Price": null,
+    "Passive": "Krampus",
+    "Description": "Haunted with the evil spirit of Krampus himself. Every 10 catches, gain a random temporary buff."
+  },
+  {
+    "Stats": {
+      "LineDistance": 333,
+      "LureSpeed": -3333,
+      "Luck": 333,
+      "Control": 0.7,
+      "Strength": 3333333333,
+      "Resilience": -33333
+    },
+    "Name": "Amygdala",
+    "Price": null,
+    "Passive": "Amygdala",
+    "ProgressEfficiency": 3.33,
+    "Description": "(っ҂ •)っ poison, or antidote ? [For @kittydiets - lea]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 200,
+      "LureSpeed": 50,
+      "Luck": 135,
+      "Control": 0.1,
+      "Strength": 10000,
+      "Resilience": 10
+    },
+    "Name": "Rod of the Cosmos",
+    "Price": null,
+    "Passive": "RodOfTheCosmos",
+    "Description": "Only obtainable during Continental Drift; \nHas a 15% chance for the Nova mutation, and +50% Progress Speed during Starfall; with a chance to catch Cosmic Relics."
+  },
+  {
+    "Stats": {
+      "LineDistance": 342,
+      "LureSpeed": -42,
+      "Luck": 342,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 4.2
+    },
+    "Name": "Pinion's Aria",
+    "Price": null,
+    "Passive": "PinionsAria",
+    "Description": "All together, resonate once more.\n[for @ceIeranis]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": -1518,
+      "Luck": 333,
+      "Control": 0.123,
+      "Strength": 123456789,
+      "Resilience": 45
+    },
+    "Name": "Paintbrush",
+    "Price": null,
+    "Passive": "Paintbrush",
+    "ProgressEfficiency": 3.14,
+    "Description": "Awarded to only the best artists of Fisch! This rod shows that you have excelled and rose above everyone else."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 70,
+      "Luck": 200,
+      "Control": 0.05,
+      "Strength": 3000,
+      "Resilience": 10
+    },
+    "Name": "Fortune Rod",
+    "From": "Roslit",
+    "Price": 11000,
+    "Description": "Extremely lucky rod with an odd tendency to attract significantly rarer fish than usual."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 15,
+      "Luck": 145,
+      "Control": -0.1,
+      "Strength": 250000,
+      "Resilience": 12
+    },
+    "Name": "Rod Of The Zenith",
+    "Price": 1500000,
+    "Passive": "RodOfTheZenith",
+    "Description": "A legendary rod that defies limits, allowing a challenge for those seeking the ultimate reward. Has a 70% chance to apply the Wrath mutation to fish."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 5,
+      "Luck": 280,
+      "Control": 0.1,
+      "Strength": 100000,
+      "Resilience": 20
+    },
+    "Name": "Great Rod of Oscar",
+    "From": "Isle of New Beginnings",
+    "Price": 2500000,
+    "Passive": "OscarRod",
+    "ProgressEfficiency": 0.3,
+    "Description": "A relic of the Dead Mans Tale, with a moderate boost to experience... Has a 5% chance to apply the spirits of Oscar."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 25,
+      "Luck": 319,
+      "Control": 0.39,
+      "Strength": 21512406,
+      "Resilience": 15
+    },
+    "Name": "Fallen Snowblade",
+    "Price": null,
+    "Passive": "FallenSnowblade",
+    "ProgressEfficiency": 0.5,
+    "Description": "Wielded by a lost soul, this divine blade now conjures snow and silence—a cursed echo of his eternal search for home. It's true strength may vary relative to the current Season... [For @rDevSno]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Sovereign Doombringer",
+    "Price": null,
+    "Description": "Obliterate fish with a huge hammer. [Developer-Exclusive]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": -25,
+      "Luck": 125,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 25
+    },
+    "Name": "Santa's Miracle Rod",
+    "Price": null,
+    "Passive": "Santa",
+    "Description": "Only obtainable during Fischmas;\nA festive rod blessed by Santa himself. Fish have a 20% chance to gain the Santa mutation, a 10% chance to gain any natural Fischmas mutation, and magically spawned presents. Each catch also has a 10% chance to be magically gifted your Fischmas pals!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 70,
+      "Luck": 60,
+      "Control": -0.01,
+      "Strength": 1000,
+      "Resilience": 10
+    },
+    "Name": "Resourceful Rod",
+    "Price": null,
+    "Passive": "2xBaits",
+    "Description": "Doubles the effects of all bait, and has a 60% chance to not consume bait, increasing the efficiency of every catch."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 50,
+      "Luck": 65,
+      "Control": 0.1,
+      "Strength": 8500,
+      "Resilience": 20
+    },
+    "Name": "Tidal Wave Rod",
+    "Price": null,
+    "Description": "Only obtainable during Fischfest; \nA crashing surge of power with a 20% chance to wash your fish in Beachy style, and a small chance to infuse it with the glow of Summer!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 55,
+      "Luck": 45,
+      "Control": 0.05,
+      "Strength": 25000,
+      "Resilience": 20
+    },
+    "Name": "Auric Rod",
+    "Price": null,
+    "Description": "A rod forged with many valuable gemstones. Fish caught with this rod have a random sell value between 2-4x."
+  },
+  {
+    "Stats": {
+      "LineDistance": 69,
+      "LureSpeed": -566,
+      "Luck": 333,
+      "Control": 0.7,
+      "Strength": 407,
+      "Resilience": 111
+    },
+    "Name": "Starline Caster",
+    "Price": null,
+    "Passive": "StarlineCaster",
+    "ProgressEfficiency": 7.77,
+    "Description": "☆ this guy called rick is a nerd and made the stats some stupid cipher [For @s1mplyrick]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 25,
+      "Luck": 147,
+      "Control": 0.17,
+      "Strength": 15000,
+      "Resilience": 17
+    },
+    "Name": "Great Dreamer Rod",
+    "From": "Cursed Isle",
+    "Price": 700000,
+    "Passive": "GreatDreamerRod",
+    "Description": "Pulsing with energy and madness, some say the Dreamer himself occasionally awakens to seize a fish, with a 50% chance of Cursed Touch."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 30,
+      "Luck": 79,
+      "Control": 0.2,
+      "Strength": 4000,
+      "Resilience": -30
+    },
+    "Name": "Midas Rod",
+    "From": "The Travelling Merchant",
+    "Price": 55000,
+    "Passive": "MidasRod",
+    "Description": "Blessed with the power of Midas. All caught fish will be golden."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 0,
+      "Luck": 150,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 100
+    },
+    "Name": "Chrysalis",
+    "Price": null,
+    "Passive": "Chrysalis",
+    "ProgressEfficiency": 0.1,
+    "Description": "🍡"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 80,
+      "Luck": 150,
+      "Control": 0,
+      "Strength": 12000,
+      "Resilience": 15
+    },
+    "Name": "Precision Rod",
+    "Price": null,
+    "Description": "Counterpart to the Rapid Rod, with much better resilience!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 222,
+      "LureSpeed": -122,
+      "Luck": 222,
+      "Control": 0.22,
+      "Strength": null,
+      "Resilience": 22
+    },
+    "Name": "Wingripper",
+    "Price": null,
+    "Passive": "Wingripper",
+    "ProgressEfficiency": 0.22,
+    "Description": "name a few dimensions we can flow between with no obstructions, another timeline."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Pen Rod",
+    "Price": null,
+    "Description": "Given to editors of the Official Fisch Wiki for their continued contributions!\n[Originally for @ZooWeeMamaMoment]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 75,
+      "Luck": 70,
+      "Control": 0.03,
+      "Strength": 8000,
+      "Resilience": 20
+    },
+    "Name": "Seasons Rod",
+    "Price": null,
+    "Description": "Boosts fish luck by 40% for the current season. It also has a 50% chance to grant a \"Seasonal\" mutation that changes the fish's colors based on the season it was caught. Seasonal Mutation Buffs -> Spring: 4.5x Sell Price, Summer: +25% Size, Autumn: 4x Sell Price, Winter: 2.5x Sell Price"
+  },
+  {
+    "Stats": {
+      "LineDistance": 80,
+      "LureSpeed": 40,
+      "Luck": 90,
+      "Control": 0.3,
+      "Strength": null,
+      "Resilience": 70
+    },
+    "Name": "Abyssal Specter Rod",
+    "Price": 850000,
+    "Passive": "AbyssalSpecterRod",
+    "Description": "Forged in the darkest depths of the ocean's trenches, this spectral rod radiates an otherworldly strength. Its phantom line reaches impossible depths, while its ghostly power grants the ability to haul in catches that would snap lesser rods. All fish are 20% larger, & have a 25% chance to be Abyssal."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 160,
+      "Luck": 35,
+      "Control": 0.05,
+      "Strength": 250000,
+      "Resilience": 30
+    },
+    "Name": "Steady Rod",
+    "From": "Roslit",
+    "Price": 7000,
+    "Description": "Insanely stiff and strong. Can withstand immense pressure and tension. [Increases shake UI size]"
+  },
+  {
+    "Stats": {
+      "LineDistance": null,
+      "LureSpeed": -1,
+      "Luck": 101,
+      "Control": 0.101,
+      "Strength": 1010101,
+      "Resilience": 10.1
+    },
+    "Name": "nilCaster",
+    "Price": null,
+    "Passive": "nilCaster",
+    "ProgressEfficiency": 1.01010101,
+    "Description": "oops my data corrupt"
+  },
+  {
+    "Stats": {
+      "LineDistance": 75,
+      "LureSpeed": 13,
+      "Luck": 248,
+      "Control": 0.3,
+      "Strength": 100000,
+      "Resilience": -20
+    },
+    "Name": "Toxic Spire Rod",
+    "Price": null,
+    "Passive": "Toxic",
+    "ProgressEfficiency": 0.2,
+    "Description": "Tainted power seeps into the catch, slowing it with each struggle. A 15% toxic strike will paralyze it completely, granting 70% faster progress."
+  },
+  {
+    "Stats": {
+      "LineDistance": 444,
+      "LureSpeed": -344,
+      "Luck": 444,
+      "Control": 0.14,
+      "Strength": 444444444,
+      "Resilience": 44
+    },
+    "Name": "Electric Guitar",
+    "Price": null,
+    "Description": "WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 40,
+      "Luck": 60,
+      "Control": 0.1,
+      "Strength": 5000,
+      "Resilience": 40
+    },
+    "Name": "Mission Specialist's Rod",
+    "Price": null,
+    "Passive": "Jurassic",
+    "Description": "You chose the Mission Specialist's Rod in your Jurassic missions!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 55,
+      "Luck": 65,
+      "Control": 0.25,
+      "Strength": 100000,
+      "Resilience": 20
+    },
+    "Name": "Champions Rod",
+    "Price": 90000,
+    "Description": "Wielded by legendary tournament winners, this balanced rod embodies competitive excellence."
+  },
+  {
+    "Stats": {
+      "LineDistance": 35,
+      "LureSpeed": 15,
+      "Luck": 125,
+      "Control": 0.15,
+      "Strength": 10000,
+      "Resilience": 25
+    },
+    "Name": "Carrot Rod",
+    "From": "Carrot Garden",
+    "Price": 75000,
+    "Passive": "CarrotRod",
+    "Description": "Rich in nutrients!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 40,
+      "Luck": 230,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 25
+    },
+    "Name": "View Smasher",
+    "Price": null,
+    "Description": "HIT THAT FOLLOW BUTTON!! [CC Only]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 0,
+      "Luck": 888,
+      "Control": 0.05,
+      "Strength": null,
+      "Resilience": 45
+    },
+    "Name": "Blade Of Glorp",
+    "Price": null,
+    "Passive": "GlorpBlade",
+    "Description": "A sharp Blade & friendly UFO crafted by Glorp harnesses the power of Lasers. Be careful, it is hot and will melt your hands if touched. [For @uhvanni]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 45,
+      "Luck": 80,
+      "Control": 0.02,
+      "Strength": 8000,
+      "Resilience": 15
+    },
+    "Name": "Phoenix Rod",
+    "From": "Ancient Isle",
+    "Price": 50000,
+    "Passive": "PhoenixRod",
+    "Description": "Embued with the spirit of the graceful Phoenix. All fish have a 40% chance to be set ablaze, with 10% possessing the power of the Eclipse."
+  },
+  {
+    "Stats": {
+      "LineDistance": 74,
+      "LureSpeed": 30,
+      "Luck": 100,
+      "Control": 0.04,
+      "Strength": 742025,
+      "Resilience": 7
+    },
+    "Name": "Patriot Rod",
+    "Price": null,
+    "Passive": "PatriotRod",
+    "Description": "Happy 4th of July!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 0,
+      "Luck": 150,
+      "Control": 0,
+      "Strength": 100,
+      "Resilience": 0
+    },
+    "Name": "Popsicle Rod",
+    "Price": null,
+    "Passive": "PopsicleRod",
+    "Description": "Only obtainable during Fischfest; \nA frozen delight with a 15% chance to feed a fish a popsicle, and greatly increased progress speed during Summer!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 20,
+      "Luck": 125,
+      "Control": -0.1,
+      "Strength": 250000,
+      "Resilience": 35
+    },
+    "Name": "Relic Rod",
+    "Price": null,
+    "Description": "A really old rod, found from the tombs of ancient isles, crafted out of ancient bone, but does it hold a mysterious power within it?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 24,
+      "LureSpeed": 105,
+      "Luck": 40,
+      "Control": 0.2,
+      "Strength": 50000,
+      "Resilience": 5
+    },
+    "Name": "Stone Rod",
+    "From": "Ancient Isle",
+    "Price": 2000,
+    "Description": "A rock-hard rod made purely from stone, which also makes it quite heavy."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 85,
+      "Luck": 80,
+      "Control": 0.1,
+      "Strength": 200,
+      "Resilience": 10
+    },
+    "Name": "Brick Built Rod",
+    "Price": null,
+    "Passive": "Brick Built",
+    "Description": "Stacked with color, packed with fun! Fish have a 5% chance to become Awesome."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 25,
+      "Luck": 60,
+      "Control": 0.05,
+      "Strength": 5000,
+      "Resilience": 18
+    },
+    "Name": "Merchant Rod",
+    "From": "Treasure Island",
+    "Price": 20000,
+    "Passive": "WhirlpoolBait",
+    "Description": "A rod designed for Merchants! Has a 50% chance to create a whirlpool, allowing for random bait to be caught."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 30,
+      "Luck": 130,
+      "Control": 0.12,
+      "Strength": 10000,
+      "Resilience": 5
+    },
+    "Name": "Treasure Rod",
+    "From": "Treasure Island",
+    "Price": 30000,
+    "Passive": "Coinfall",
+    "ProgressEfficiency": 0.05,
+    "Description": "A radiant rod with shimmmering gems, has a 20% chance for Coinfall."
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 45,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": 5000,
+      "Resilience": 10
+    },
+    "Name": "Free Spirit Rod",
+    "From": "Isle of New Beginnings",
+    "Price": 200000,
+    "Passive": "FreeSpiritRod",
+    "Description": "A rod infused with untamed blooming spirits. Occasional slashes, & all caught fish have a 30% chance to be mutated with Bloom."
+  },
+  {
+    "Stats": {
+      "LineDistance": 125,
+      "LureSpeed": 30,
+      "Luck": 250,
+      "Control": 0.3,
+      "Strength": null,
+      "Resilience": 40
+    },
+    "Name": "Fish Photographer",
+    "Price": null,
+    "Passive": "ContentCreatorEntity",
+    "Description": "If I catch you fishy.. if I catch you [CC Only]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 1000,
+      "LureSpeed": 150,
+      "Luck": 150,
+      "Control": 0.05,
+      "Strength": null,
+      "Resilience": 100
+    },
+    "Name": "Oblivion Doombreaker",
+    "Price": null,
+    "Description": "Obliterate fish with a huge flame-engulfed hammer. [Developer-Exclusive]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 22,
+      "LureSpeed": 80,
+      "Luck": 35,
+      "Control": 0.08,
+      "Strength": 2200,
+      "Resilience": 12
+    },
+    "Name": "Frostfire Rod",
+    "Price": null,
+    "Description": "A sleek fishing rod wreathed in flames and frost, designed to tackle the toughest catches with elemental flair."
+  },
+  {
+    "Stats": {
+      "LineDistance": 22,
+      "LureSpeed": 90,
+      "Luck": 45,
+      "Control": 0.05,
+      "Strength": 2200,
+      "Resilience": 15
+    },
+    "Name": "Fischmas Rod",
+    "Price": null,
+    "Description": "A festive fishing rod wrapped in holiday cheer, perfect for reeling in seasonal treasures."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 55,
+      "Luck": 75,
+      "Control": 0.25,
+      "Strength": 200000,
+      "Resilience": 15
+    },
+    "Name": "Summit Rod",
+    "Price": 500000,
+    "Passive": "SummitRod",
+    "ProgressEfficiency": 0.1,
+    "Description": "A refined rod with snow-white highlights and shimmering blue effects. Has a 40% chance for fish to be Frozen, 20% chance for Sleet, & a 15% chance for Blighted."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 50,
+      "Luck": 60,
+      "Control": 0.15,
+      "Strength": 75000,
+      "Resilience": 20
+    },
+    "Name": "Ice Warpers Rod",
+    "Price": 65000,
+    "Passive": "IceWarpers",
+    "Description": "A frost-themed rod with glowing blue accents and icy particle effects. Has a 25% chance to mutate fish with Blighted."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 60,
+      "Luck": 225,
+      "Control": 0.2,
+      "Strength": 200000,
+      "Resilience": 30
+    },
+    "Name": "Heaven's Rod",
+    "Price": 1750000,
+    "Passive": "HeavenRod",
+    "Description": "A heavenly rod with glowing floating parts and a divine halo, emitting mythical particles and celestial animations. Has a 35% chance for fish to become Heavenly."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 30,
+      "Luck": 70,
+      "Control": 0.1,
+      "Strength": 3000,
+      "Resilience": 10
+    },
+    "Name": "Brother's Rod",
+    "From": "Isle of New Beginnings",
+    "Price": null,
+    "Passive": "Brothers",
+    "Description": "Built from a brother's bond, grants a 20% chance to duplicate and mutate fish."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 50,
+      "Luck": 75,
+      "Control": 0.1,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Christmas Tree Rod",
+    "Price": null,
+    "Passive": "ChristmasTree",
+    "Description": "Only obtainable during Fischmas;\nA festively lit tree repurposed as a rod! All fish have a 25% chance to be Merry."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 20,
+      "Luck": 102.54,
+      "Control": 0.1,
+      "Strength": null,
+      "Resilience": 50
+    },
+    "Name": "Merlin's Staff",
+    "From": "Sunstone Island",
+    "Price": null,
+    "Passive": "MerlinMagic",
+    "Description": "Channels Merlin's rift-woven magic to trap unsuspecting fish between realms..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 75,
+      "Luck": 45,
+      "Control": 0.06,
+      "Strength": 7500,
+      "Resilience": 15
+    },
+    "Name": "Arctic Rod",
+    "Price": 25000,
+    "Passive": "ArcticRod",
+    "Description": "A white rod with frost effects and a cool blue glow, all fish become Frozen."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 65,
+      "Luck": 45,
+      "Control": 0.15,
+      "Strength": 25000,
+      "Resilience": 15
+    },
+    "Name": "Crystalized Rod",
+    "Price": 35000,
+    "Passive": "CrystalizedRod",
+    "Description": "A luminous rod with a bright yellow glow and crystal-like effects. Has a 20% chance to Crystalize fish."
+  },
+  {
+    "Stats": {
+      "LineDistance": 14,
+      "LureSpeed": 90,
+      "Luck": 25,
+      "Control": 0.01,
+      "Strength": 150,
+      "Resilience": -2
+    },
+    "Name": "Candy Cane Rod",
+    "Price": null,
+    "Description": "A sweet and minty rod with a festive pattern. All fish have a 10% chance to be Festive."
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 50,
+      "Luck": 50,
+      "Control": 0.05,
+      "Strength": 1000,
+      "Resilience": 0
+    },
+    "Name": "Haunted Rod",
+    "Price": null,
+    "Description": "Only obtainable during FischFright; The rod is cursed with the constant energy of FischFright, allowing it to catch FischFright mutations all year round."
+  },
+  {
+    "Stats": {
+      "LineDistance": 19,
+      "LureSpeed": 95,
+      "Luck": 30,
+      "Control": 0.04,
+      "Strength": 875,
+      "Resilience": 12
+    },
+    "Name": "North-Star Rod",
+    "Price": null,
+    "Description": "Powered by the intensely bright shine of the Northern Star."
+  },
+  {
+    "Stats": {
+      "LineDistance": 13,
+      "LureSpeed": 20,
+      "Luck": 85,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 35
+    },
+    "Name": "Maelstrom",
+    "Price": 3250000,
+    "Passive": "Mael",
+    "ProgressEfficiency": -0.1,
+    "Description": "Only obtainable during Fischmas;\nA glacial bow of overwhelming power, capable of locking the sea in its grasp..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 30,
+      "Luck": 75,
+      "Control": 0.1,
+      "Strength": 2000,
+      "Resilience": 20
+    },
+    "Name": "Verdant Shear Rod",
+    "From": "Lushgrove",
+    "Price": 40000,
+    "Passive": "VerdantShearRod",
+    "Description": "A rod entwined with nature's will. Has a 20% chance to sprout a tree, blessing each catch with triple its worth."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 10,
+      "Luck": 120,
+      "Control": 0.15,
+      "Strength": 80000,
+      "Resilience": 40
+    },
+    "Name": "Tempest Rod",
+    "Price": 500000,
+    "ProgressEfficiency": 0.15,
+    "Description": "Born from the essence of a perpetual storm, this rod moves faster than the eye can follow."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 90,
+      "Luck": 30,
+      "Control": 0.05,
+      "Strength": 1000,
+      "Resilience": 5
+    },
+    "Name": "Astral Rod",
+    "Price": null,
+    "Description": "An intergalactic rod, powered by the harmonious essence of all the stars in the night sky. All fish have a 5% chance to be Lunar."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 55,
+      "Luck": 90,
+      "Control": 0.08,
+      "Strength": 55000,
+      "Resilience": 20
+    },
+    "Name": "The Lost Rod",
+    "Price": null,
+    "Passive": "PerfectCatch",
+    "Description": "After a Perfect Catch, there is a 36% chance for the next catch to become Lost."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 45,
+      "Luck": 80,
+      "Control": -0.02,
+      "Strength": 2000,
+      "Resilience": 40
+    },
+    "Name": "Wisdom Rod",
+    "Price": null,
+    "Passive": "WisdomPassive",
+    "Description": "A mystical rod that rewards skilled fishers, granting a stackable 5% XP bonus for every perfect catch in a row up to 80%."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 5,
+      "Luck": 110,
+      "Control": 0.2,
+      "Strength": 200000,
+      "Resilience": 20
+    },
+    "Name": "Challenger's Rod",
+    "Price": 750000,
+    "ProgressEfficiency": 0.25,
+    "Description": "An ice-imbued rod for the most dedicated fishers."
+  },
+  {
+    "Stats": {
+      "LineDistance": 75,
+      "LureSpeed": 0,
+      "Luck": 175,
+      "Control": -0.2,
+      "Strength": -757575,
+      "Resilience": 175
+    },
+    "Name": "Duskwire",
+    "Price": null,
+    "Passive": "Duskwire",
+    "ProgressEfficiency": 0.25,
+    "Description": "Intertwined with souls of the masses; a reminder that we are all human after all."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 20,
+      "Luck": 1000,
+      "Control": 0.1,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Random Rod",
+    "Price": null,
+    "Passive": "RandomRod",
+    "Description": "?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 80,
+      "LureSpeed": 50,
+      "Luck": 160,
+      "Control": 0.175,
+      "Strength": 75000,
+      "Resilience": 15
+    },
+    "Name": "Rod Of The Eternal King",
+    "Price": null,
+    "Passive": "RoyalEscort",
+    "Description": "Every 30 seconds, a 5% chance summons a 'Royal Escort', boosting luck by 150% for 45 seconds. If you miss a catch, there's a 15% chance of immediately catching a higher rarity fish. All fish have a 60% chance to be Greedy."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 55,
+      "Luck": 60,
+      "Control": 0.06,
+      "Strength": 6000,
+      "Resilience": 16
+    },
+    "Name": "Aurora Rod",
+    "From": "Vertigo",
+    "Price": 70000,
+    "Passive": "AuroraRod",
+    "Description": "Enhanced by the Aurora Borealis' energy. All fish have a 15% chance to have the Aurora mutation.\nChances increase to 30% during the Aurora Borealis."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 50,
+      "Luck": 65,
+      "Control": 0.1,
+      "Strength": 2000,
+      "Resilience": 10
+    },
+    "Name": "Gingerbread Rod",
+    "Price": 5000,
+    "Passive": "GingerbreadRod",
+    "Description": "Only obtainable during Fischmas;\nA delicious and festive gingerbread cookie built rod! All fish have a 25% chance to be Gingerbread."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 20,
+      "Luck": 80,
+      "Control": 0.15,
+      "Strength": 25000,
+      "Resilience": 20
+    },
+    "Name": "Fang of the Eclipse",
+    "Price": null,
+    "Passive": "EclipseFangKhopeshrod",
+    "Description": "A quiet antique under normal conditions... Under the presence of an Eclipse, it becomes a power beyond comprehension—an intricate yet worthy challenge."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 20,
+      "Luck": 145,
+      "Control": 0.22,
+      "Strength": 300000,
+      "Resilience": 25
+    },
+    "Name": "Rod Of The Forgotten Fang",
+    "Price": null,
+    "Passive": "Shark",
+    "Description": "All caught fish have a 25% chance for Tidal mutation\nAfter 3 perfect catches, triggers a special mode where a Meg jumps out of the Deeps with a higher-tier fish. Boasting a 25-50% size buff and the Tidal mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 3939,
+      "LureSpeed": -3839,
+      "Luck": 39,
+      "Control": 0.39,
+      "Strength": 393939393,
+      "Resilience": 3939
+    },
+    "Name": "Miku's Melody",
+    "Price": null,
+    "Description": "Blue hair, blue tie, hiding in your wifi! [For @.const]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 60,
+      "LureSpeed": 75,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": 5000,
+      "Resilience": 10
+    },
+    "Name": "Shamrock Rod",
+    "From": "None",
+    "Price": null,
+    "Passive": "Clover",
+    "Description": "Surely the pot of gold at the end of the rainbow is real... Right?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 30,
+      "LureSpeed": 20,
+      "Luck": 100,
+      "Control": -0.05,
+      "Strength": 500000,
+      "Resilience": 45
+    },
+    "Name": "Lucid Rod",
+    "Price": null,
+    "Passive": "Lucid Rod",
+    "ProgressEfficiency": 0.1,
+    "Description": "A radiant rod that channels the power of dreams, granting the Lucid mutation and rarely cloning catches; particularly under clear skies."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": -50,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": 150000,
+      "Resilience": 15
+    },
+    "Name": "Test Rod",
+    "Price": null,
+    "Passive": "TestRod",
+    "Description": "Test Rod Description"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 80,
+      "Luck": 25,
+      "Control": 0.05,
+      "Strength": 2500,
+      "Resilience": 20
+    },
+    "Name": "Rod Of Time",
+    "Price": null,
+    "Description": "A time rod!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 75,
+      "Luck": 50,
+      "Control": 0,
+      "Strength": 2000,
+      "Resilience": 15
+    },
+    "Name": "Scurvy Rod",
+    "From": "Forsaken Shores",
+    "Price": 40000,
+    "Passive": "ScurvyRod",
+    "Description": "This rod has been on every pirate ship imaginable. Decent at everything, bad at nothing. Just like a pirate should! Has a 16% chance for fish to become Greedy."
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 0,
+      "Luck": 200,
+      "Control": 0.2,
+      "Strength": null,
+      "Resilience": 20
+    },
+    "Name": "Astralhook Rod",
+    "Price": null,
+    "Passive": "Astralhook",
+    "ProgressEfficiency": 0.15,
+    "Description": "Tempered from the silence within descending stars, it draws from the power of the Milky Way to assemble powers beyond conceivability."
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 100,
+      "Luck": 5,
+      "Control": 0,
+      "Strength": 300,
+      "Resilience": 0
+    },
+    "Name": "Buddy Bond Rod",
+    "Price": null,
+    "Description": "A friendly rod!\nWhile playing with a friend, fish weight is increased by 30%."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 10,
+      "Luck": 25,
+      "Control": 0.03,
+      "Strength": 150000,
+      "Resilience": 5
+    },
+    "Name": "Spiritbinder",
+    "Price": null,
+    "Passive": "Spiritbinder",
+    "Description": "Spirits occasionally leave fish behind...\nTheir presence subtly draws high-rarity fish closer..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 50,
+      "LureSpeed": 35,
+      "Luck": 180,
+      "Control": 0,
+      "Strength": 50000,
+      "Resilience": 25
+    },
+    "Name": "Rainbow Cluster Rod",
+    "From": "Castaway Cliffs",
+    "Price": 250000,
+    "Passive": "RainbowClusterRod",
+    "Description": "Enhanced by the Rainbow energy! (20% chance for Rainbow mutation) Rainbow weather grants a 35% chance for the Rainbow mutation & +50% Progress Speed."
+  },
+  {
+    "Stats": {
+      "LineDistance": 19,
+      "LureSpeed": 100,
+      "Luck": 0,
+      "Control": 0,
+      "Strength": 10.4,
+      "Resilience": 0
+    },
+    "Name": "Flimsy Rod",
+    "From": "Moosewood",
+    "Price": 0,
+    "Description": "Quite the weak and unreliable rod. But, it can get the job done!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 60,
+      "Luck": 45,
+      "Control": 0,
+      "Strength": 200,
+      "Resilience": 20
+    },
+    "Name": "Fungal Rod",
+    "Price": null,
+    "Passive": "FungalRod",
+    "Description": "Has a 30% chance for fish to be Fungal, & a 70% chance for the rod to sprout suspicious spores, giving you Luck X for 45 seconds! Prettyy funky!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 250,
+      "LureSpeed": 0,
+      "Luck": 1000,
+      "Control": 0.55,
+      "Strength": null,
+      "Resilience": 100
+    },
+    "Name": "Classic Polaris Serenade",
+    "Price": null,
+    "Passive": "OldButterflyEntity",
+    "ProgressEfficiency": 0.5,
+    "Description": "💫"
+  },
+  {
+    "Stats": {
+      "LineDistance": 200,
+      "LureSpeed": 100,
+      "Luck": 75,
+      "Control": 0.35,
+      "Strength": null,
+      "Resilience": 35
+    },
+    "Name": "Brick Rod",
+    "Price": 13337,
+    "Description": "Wait.. it's real?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 60,
+      "Luck": 60,
+      "Control": 0.05,
+      "Strength": 2500,
+      "Resilience": 15
+    },
+    "Name": "Mythical Rod",
+    "From": "The Travelling Merchant",
+    "Price": 90000,
+    "Passive": "MythicalRod",
+    "Description": "Blessed with the power of The Keepers. All fish have a 30% chance to be rainbow."
+  },
+  {
+    "Stats": {
+      "LineDistance": 999,
+      "LureSpeed": -899.999,
+      "Luck": 888.888,
+      "Control": 0.777,
+      "Strength": null,
+      "Resilience": 666.666
+    },
+    "Name": "SOULREAPER",
+    "Price": null,
+    "Passive": "SOULREAPER",
+    "Description": "Vampires will never hurt you. [Dev rod, for @049492]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 0,
+      "Luck": 100,
+      "Control": 0.125,
+      "Strength": null,
+      "Resilience": 25
+    },
+    "Name": "Sanguine Spire",
+    "Price": 10000000,
+    "Passive": "SanguineSpire",
+    "ProgressEfficiency": 0.3,
+    "Description": "i am emo rod!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 20,
+      "Luck": 117,
+      "Control": -0.11,
+      "Strength": 25000,
+      "Resilience": -16
+    },
+    "Name": "Vinefang Rod",
+    "Price": null,
+    "Passive": "VinefangRod",
+    "ProgressEfficiency": 0.5,
+    "Description": "Only obtainable during Jungle's Echo Bone Hunt; \nA fragile rod of bone and vine, hiding absurd, untamed power that awakens only in the Jungle."
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 30,
+      "Luck": 75,
+      "Control": 0.17,
+      "Strength": 700,
+      "Resilience": 17
+    },
+    "Name": "Wildflower Rod",
+    "From": "Terrapin",
+    "Price": 40000,
+    "Passive": "WildflowerRod",
+    "Description": "Entwined with blooming vines and the essence of the wild. Fish have a 30% chance to be drawn to nature."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 130,
+      "Control": 0.15,
+      "Strength": 30000,
+      "Resilience": 10
+    },
+    "Name": "Rod Of The Depths",
+    "From": "The Depths",
+    "Price": 750000,
+    "Passive": "ShadowEntity",
+    "Description": "This Rod was crafted by the Legendary King of The Depths... Legends say, every once in a while the Spirit of the King visits you to hand you a gift from the deep waters!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 250,
+      "Control": 0.65,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Prismatic Rod",
+    "Price": null,
+    "Description": "Feel my unstoppable daggers! [For @moonysquared]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 80,
+      "Luck": 177,
+      "Control": 0.07,
+      "Strength": 175,
+      "Resilience": 7
+    },
+    "Name": "Lucky Rod",
+    "From": "Moosewood",
+    "Price": 4500,
+    "Description": "Seems to attract a handful of rare fish. Not sure why?.. Maybe I should buy a lottery ticket?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 130,
+      "LureSpeed": 5,
+      "Luck": 150,
+      "Control": 0.25,
+      "Strength": null,
+      "Resilience": 20
+    },
+    "Name": "Seraphic Rod",
+    "Price": null,
+    "Passive": "SeraphicRod",
+    "Description": "TOUCH SOME GRASS BUDDY"
+  },
+  {
+    "Stats": {
+      "LineDistance": 777,
+      "LureSpeed": -677,
+      "Luck": 777,
+      "Control": 0.17,
+      "Strength": null,
+      "Resilience": null
+    },
+    "Name": "Onirifalx",
+    "Price": null,
+    "Passive": "Onirifalx",
+    "ProgressEfficiency": 0.7,
+    "Description": "Tempered in dreams and sharpened by peril, the Onirifalx reaps catches with unrivaled speed for those who can hold their ground.\n[For @animepunk]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 150,
+      "Luck": 1000,
+      "Control": 0.7,
+      "Strength": 100000000000,
+      "Resilience": 1000
+    },
+    "Name": "Cinder Block Rod",
+    "Price": 50000,
+    "Passive": "CinderBlockRod",
+    "Description": "seems a little heavy..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": -150,
+      "Luck": 250,
+      "Control": -0.17,
+      "Strength": 1000000,
+      "Resilience": -50
+    },
+    "Name": "Sword of Darkness",
+    "Price": null,
+    "Passive": "SwordOfDarkness",
+    "Description": "Dare to reach out your hand into the darkness, to pull another hand into the dark from the light. \n[Black Market Exclusive]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 5,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Katana Rod",
+    "Price": null,
+    "Description": "Good at cutting fruit. \n[Black Market Exclusive]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 20,
+      "LureSpeed": 100,
+      "Luck": 0,
+      "Control": 0.5,
+      "Strength": 500000000,
+      "Resilience": -500
+    },
+    "Name": "The Boom Ball",
+    "Price": 50000,
+    "Passive": "TheBoomBall",
+    "Description": "how could this possibly be a good idea?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 200,
+      "LureSpeed": 50,
+      "Luck": 70,
+      "Control": 0.1,
+      "Strength": 10000,
+      "Resilience": 15
+    },
+    "Name": "Superstar Rod",
+    "From": "Isle of New Beginnings",
+    "Price": null,
+    "Description": "It glows with unmatched shopping energy!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 24,
+      "LureSpeed": 75,
+      "Luck": 45,
+      "Control": 0.02,
+      "Strength": 200,
+      "Resilience": -4
+    },
+    "Name": "Antler Rod",
+    "Price": null,
+    "Description": "A rod bearing the magnificent antlers of a reindeer. All fish have a 25% chance to be Jolly."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 55,
+      "Luck": 250,
+      "Control": 0.2,
+      "Strength": 77777,
+      "Resilience": 10
+    },
+    "Name": "Destiny Rod",
+    "From": "Caleia",
+    "Price": 190000,
+    "Passive": "DestinyRod",
+    "Description": "The Destiny Rod pulses continuously with the pure essence of luck. (10% Higher chance of Shiny & Sparkling fish)"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 150,
+      "Control": 0.35,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Rex Umbrarum",
+    "Price": null,
+    "Description": "Beeg Heavy Sord [For @Plutoly]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 50,
+      "Luck": 70,
+      "Control": 0,
+      "Strength": 10000,
+      "Resilience": 0
+    },
+    "Name": "Nocturnal Rod",
+    "Price": 11000,
+    "Description": "Seems to wake up fish just by throwing the bobber in!-- Can catch nocturnal and diurnal fish at any time!"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 65,
+      "Luck": 150,
+      "Control": 0.05,
+      "Strength": 6000,
+      "Resilience": 0
+    },
+    "Name": "Trident Rod",
+    "Price": 150000,
+    "Passive": "TridentRod",
+    "Description": "Was originally the King of the Sea's way of defending his kingdom. All fish have a 30% chance to be Atlantean. [Has a chance to stab a fish while catching it, briefly stunning it and increasing progress]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 30,
+      "Luck": 90,
+      "Control": 0.05,
+      "Strength": 65000,
+      "Resilience": 20
+    },
+    "Name": "Zeus Rod",
+    "Price": 850000,
+    "Passive": "ZeusRod",
+    "Description": "Forged in the heart of Mount Olympus, this divine rod crackles with Zeus's lightning. Its power grants the ability to command storms, with a 90% chance to inflict the Electric Shock mutation on fish; all others are Charred."
+  },
+  {
+    "Stats": {
+      "LineDistance": 111,
+      "LureSpeed": -11,
+      "Luck": 222,
+      "Control": 0.2,
+      "Strength": null,
+      "Resilience": 22
+    },
+    "Name": "Angel of Death",
+    "Price": null,
+    "Passive": "AngelOfDeath",
+    "ProgressEfficiency": 0.5,
+    "Description": "Your wings will show eventually."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 35,
+      "Luck": 150,
+      "Control": 0.15,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Tetra Rod",
+    "Price": null,
+    "Description": "A rod that belongs to the hands of the Tetrapede. [For @voaj77]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 50,
+      "Luck": 120,
+      "Control": 0.1,
+      "Strength": null,
+      "Resilience": -10
+    },
+    "Name": "Evil Pitchfork of Doom Rod",
+    "Price": null,
+    "Passive": "EvilPitchforkOfDoomRod",
+    "ProgressEfficiency": 0.25,
+    "Description": "lol im evil"
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 40,
+      "Luck": 100,
+      "Control": 0.15,
+      "Strength": 650,
+      "Resilience": 15
+    },
+    "Name": "Frog Rod",
+    "From": "Waveborne",
+    "Price": 12000,
+    "Passive": "Frog",
+    "Description": "A peculiar rod infused with amphibian magic. Frogs appear applying a stacking luck boost for every perfect catch."
+  },
+  {
+    "Stats": {
+      "LineDistance": 32,
+      "LureSpeed": 60,
+      "Luck": 65,
+      "Control": 0.1,
+      "Strength": null,
+      "Resilience": 15
+    },
+    "Name": "Reinforced Rod",
+    "Price": 20000,
+    "Description": "Crafted by a metal stronger than diamond, making it capable of fishing in any harmful liquid."
+  },
+  {
+    "Stats": {
+      "LineDistance": 350,
+      "LureSpeed": 0,
+      "Luck": 350,
+      "Control": 0.35,
+      "Strength": null,
+      "Resilience": 35
+    },
+    "Name": "Hubert Rod",
+    "Price": null,
+    "Passive": "Hubert",
+    "Description": ":3"
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 80,
+      "Luck": 150,
+      "Control": 0,
+      "Strength": 10000,
+      "Resilience": 10
+    },
+    "Name": "Ultratech Rod",
+    "Price": null,
+    "Description": "A rod of Unknown origin, feels pretty heavy. The rod has a pressed-in text on it's bottom which says \"Ultratech v.3.\" A scratched out name next to it which reads as: ZIK [For @Zik_isi]."
+  },
+  {
+    "Stats": {
+      "LineDistance": 1000,
+      "LureSpeed": 80,
+      "Luck": 80,
+      "Control": -0.1,
+      "Strength": 250,
+      "Resilience": 20
+    },
+    "Name": "Long Rod",
+    "Price": 3000,
+    "Description": "Not the strongest, but it’s sure the longest! Is this really needed?"
+  },
+  {
+    "Stats": {
+      "LineDistance": 15,
+      "LureSpeed": 85,
+      "Luck": 25,
+      "Control": 0.05,
+      "Strength": 600,
+      "Resilience": 10
+    },
+    "Name": "Carbon Rod",
+    "From": "Moosewood",
+    "Price": 2000,
+    "Description": "Stiff, strong, and easier to handle than other rods out there, however it is slightly shorter."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 250,
+      "Control": 0.65,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "The Brick Rod",
+    "Price": null,
+    "Description": "It's real. [For @LiamGame09]"
+  },
+  {
+    "Stats": {
+      "LineDistance": 150,
+      "LureSpeed": 20,
+      "Luck": 125,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 60
+    },
+    "Name": "ROBLOX Explorer",
+    "Price": null,
+    "Description": "Once a Guitar Hero controller, it has been adorned with stickers from it's previous owner. It is now re-modelled into a multi-purpose instrument of precision and power."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 15,
+      "Luck": 122.5,
+      "Control": 0.4,
+      "Strength": null,
+      "Resilience": 5
+    },
+    "Name": "Jinglestar Rod",
+    "Price": null,
+    "Passive": "Jinglestar",
+    "ProgressEfficiency": 0.25,
+    "Description": "Only obtainable during Fischmas;\nA legendary rod of starlight and bells, its full strength will return when real Christmas magic awakens..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 70,
+      "LureSpeed": 15,
+      "Luck": 180,
+      "Control": 0.1,
+      "Strength": 230000,
+      "Resilience": 10
+    },
+    "Name": "Leviathan's Fang Rod",
+    "Price": 350000,
+    "Description": "A weaponized rod forged to withstand the wrath of Scylla, carving through its relentless assaults with unyielding force."
+  },
+  {
+    "Stats": {
+      "LineDistance": 75,
+      "LureSpeed": 5,
+      "Luck": 140,
+      "Control": 0,
+      "Strength": null,
+      "Resilience": 15
+    },
+    "Name": "Wicked Fang Rod",
+    "Price": 400000,
+    "Passive": "WickedFangRod",
+    "ProgressEfficiency": 0.2,
+    "Description": "Forged in malice, its fangs bite slow but devastatingly deep; every strike leaves ruin in its wake.\nHas a 30% chance for the Solarblaze mutation."
+  },
+  {
+    "Stats": {
+      "LineDistance": 123.4567,
+      "LureSpeed": 87.7654,
+      "Luck": 123.4567,
+      "Control": 0.1234,
+      "Strength": 123.4567,
+      "Resilience": 12.3456
+    },
+    "Name": "Experimental Rod",
+    "Passive": "ExperimentalRod",
+    "Description": "Something seems off..."
+  },
+  {
+    "Stats": {
+      "LineDistance": 25,
+      "LureSpeed": 20,
+      "Luck": 90,
+      "Control": 0.15,
+      "Strength": 5000,
+      "Resilience": 15
+    },
+    "Name": "Blazebringer Rod",
+    "From": "Emberreach",
+    "Price": 70000,
+    "Passive": "BlazebringerRod",
+    "Description": "A flaming rod with power that builds with every perfect catch, yielding a variety of unique mutations & a luck boost."
+  },
+  {
+    "Stats": {
+      "LineDistance": 100,
+      "LureSpeed": 1,
+      "Luck": 250,
+      "Control": 0.65,
+      "Strength": null,
+      "Resilience": 10
+    },
+    "Name": "Venomfang Rod",
+    "Price": null,
+    "Description": "From the bowels of an ancient temple. [For @kylecat11]"
+  }
+]
