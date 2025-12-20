@@ -1,0 +1,2074 @@
+{
+  "Mutations": {
+    "Subspace": {
+      "Display": "Subspace",
+      "Color": {
+        "B": 200,
+        "G": 0,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Chocolate": {
+      "Display": "Chocolate",
+      "Color": {
+        "B": 65,
+        "G": 77,
+        "R": 108
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Spectral": {
+      "Display": "Spectral",
+      "Color": {
+        "B": 121,
+        "G": 59,
+        "R": 92
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Fallen": {
+      "Display": "Fallen",
+      "Color": {
+        "B": 30,
+        "G": 36,
+        "R": 71
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Mace": {
+      "Display": "Mace",
+      "Color": {
+        "B": 255,
+        "G": 93,
+        "R": 158
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Mother Nature": {
+      "Display": "Mother Nature",
+      "Color": {
+        "B": 255,
+        "G": 170,
+        "R": 170
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Patriotic": {
+      "Display": "Patriotic",
+      "Color": {
+        "B": 255,
+        "G": 0,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.4
+    },
+    "SixSeven": {
+      "Display": "67",
+      "Color": {
+        "B": 54,
+        "G": 106,
+        "R": 116
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.67
+    },
+    "Poisoned": {
+      "Display": "Poisoned",
+      "Color": {
+        "B": 145,
+        "G": 73,
+        "R": 103
+      },
+      "Chance": 5,
+      "PriceMultiply": 0.9
+    },
+    "Alien": {
+      "Display": "Alien",
+      "Color": {
+        "B": 30,
+        "G": 255,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Cursed Touch": {
+      "Display": "Cursed Touch",
+      "Color": {
+        "B": 0,
+        "G": 255,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Colossal Ink": {
+      "Display": "Colossal Ink",
+      "Color": {
+        "B": 255,
+        "G": 241,
+        "R": 221
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Mythical": {
+      "Display": "Mythical",
+      "Color": {
+        "B": 148,
+        "G": 82,
+        "R": 255
+      },
+      "Chance": 1,
+      "PriceMultiply": 5.5
+    },
+    "Lobster": {
+      "Display": "Lobster",
+      "Color": {
+        "B": 42,
+        "G": 60,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Chlorowoken": {
+      "Display": "Chlorowoken",
+      "Color": {
+        "B": 70,
+        "G": 255,
+        "R": 82
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Darkness": {
+      "Display": "Darkness",
+      "Color": {
+        "B": 37,
+        "G": 48,
+        "R": 48
+      },
+      "Chance": 0,
+      "PriceMultiply": 9.4
+    },
+    "Lost": {
+      "Display": "Lost",
+      "Color": {
+        "B": 131,
+        "G": 255,
+        "R": 160
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Revitalized": {
+      "Display": "Revitalized",
+      "Color": {
+        "B": 170,
+        "G": 255,
+        "R": 164
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Santa": {
+      "Display": "Santa",
+      "Color": {
+        "B": 4,
+        "G": 4,
+        "R": 172
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Brown Wood": {
+      "Display": "Brown Wood",
+      "Color": {
+        "B": 57,
+        "G": 96,
+        "R": 143
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Summer": {
+      "Display": "Summer",
+      "Color": {
+        "B": 123,
+        "G": 235,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.2
+    },
+    "Purified": {
+      "Display": "Purified",
+      "Color": {
+        "B": 120,
+        "G": 255,
+        "R": 110
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Exploded": {
+      "Display": "Exploded",
+      "Color": {
+        "B": 93,
+        "G": 62,
+        "R": 55
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.1
+    },
+    "Flora": {
+      "Display": "Flora",
+      "Color": {
+        "B": 255,
+        "G": 71,
+        "R": 218
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Astral": {
+      "Display": "Astral",
+      "Color": {
+        "B": 255,
+        "G": 0,
+        "R": 115
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Mango": {
+      "Display": "Mango",
+      "Color": {
+        "B": 69,
+        "G": 184,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Doomsday": {
+      "Display": "Doomsday",
+      "Color": {
+        "B": 0,
+        "G": 95,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Fragmented": {
+      "Display": "Fragmented",
+      "Color": {
+        "B": 210,
+        "G": 255,
+        "R": 73
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Umbra": {
+      "Display": "Umbra",
+      "Color": {
+        "B": 0,
+        "G": 159,
+        "R": 232
+      },
+      "Chance": 0,
+      "PriceMultiply": 9
+    },
+    "Ember": {
+      "Display": "Ember",
+      "Color": {
+        "B": 0,
+        "G": 170,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "LEGO": {
+      "Display": "Awesome",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Part": {
+      "Display": "Part",
+      "Color": {
+        "B": 207,
+        "G": 207,
+        "R": 207
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.01
+    },
+    "Frostbitten": {
+      "Display": "Frostbitten",
+      "Color": {
+        "B": 255,
+        "G": 184,
+        "R": 153
+      },
+      "Chance": 0,
+      "PriceMultiply": 9
+    },
+    "Nocturnal_Night": {
+      "Display": "Nocturnal",
+      "Color": {
+        "B": 20,
+        "G": 20,
+        "R": 20
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Spirit": {
+      "Display": "Spirit",
+      "Color": {
+        "B": 149,
+        "G": 81,
+        "R": 98
+      },
+      "Chance": 1.5,
+      "PriceMultiply": 5.2
+    },
+    "Frostnova": {
+      "Display": "Frostnova",
+      "Color": {
+        "B": 255,
+        "G": 151,
+        "R": 106
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Boreal": {
+      "Display": "Boreal",
+      "Color": {
+        "B": 39,
+        "G": 46,
+        "R": 54
+      },
+      "Chance": 1,
+      "PriceMultiply": 4
+    },
+    "Spicy": {
+      "Display": "Spicy",
+      "Color": {
+        "B": 9,
+        "G": 9,
+        "R": 71
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Unlucky": {
+      "Display": "Unlucky",
+      "Color": {
+        "B": 34,
+        "G": 34,
+        "R": 34
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.5
+    },
+    "Frightful": {
+      "Display": "Frightful",
+      "Color": {
+        "B": 165,
+        "G": 104,
+        "R": 123
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Aureate": {
+      "Display": "Aureate",
+      "Color": {
+        "B": 7,
+        "G": 62,
+        "R": 140
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Birthday": {
+      "Display": "Birthday",
+      "Color": {
+        "B": 145,
+        "G": 188,
+        "R": 218
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Crimson": {
+      "Display": "Crimson",
+      "Color": {
+        "B": 34,
+        "G": 34,
+        "R": 145
+      },
+      "Chance": 3,
+      "PriceMultiply": 4
+    },
+    "Shrouded": {
+      "Display": "Shrouded",
+      "Color": {
+        "B": 53,
+        "G": 67,
+        "R": 54
+      },
+      "Chance": 1,
+      "PriceMultiply": 7
+    },
+    "Batty": {
+      "Display": "Batty",
+      "Color": {
+        "B": 23,
+        "G": 23,
+        "R": 33
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Mila's Magic": {
+      "Display": "Charred",
+      "Color": {
+        "B": 76,
+        "G": 76,
+        "R": 76
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.5
+    },
+    "Wisp": {
+      "Display": "Wisp",
+      "Color": {
+        "B": 255,
+        "G": 230,
+        "R": 2
+      },
+      "Chance": 0,
+      "PriceMultiply": 5.5
+    },
+    "Peppermint": {
+      "Display": "Peppermint",
+      "Color": {
+        "B": 73,
+        "G": 73,
+        "R": 255
+      },
+      "Chance": 1,
+      "PriceMultiply": 5
+    },
+    "Clover": {
+      "Display": "Clover",
+      "Color": {
+        "B": 0,
+        "G": 255,
+        "R": 123
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Beachy": {
+      "Display": "Beachy",
+      "Color": {
+        "B": 157,
+        "G": 217,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Glowy": {
+      "Display": "Glowy",
+      "Color": {
+        "B": 197,
+        "G": 255,
+        "R": 254
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Cement": {
+      "Display": "Cement",
+      "Color": {
+        "B": 156,
+        "G": 156,
+        "R": 156
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.5
+    },
+    "Lumpy": {
+      "Display": "Lumpy",
+      "Color": {
+        "B": 255,
+        "G": 105,
+        "R": 160
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Mastered": {
+      "Display": "Mastered",
+      "Color": {
+        "B": 255,
+        "G": 101,
+        "R": 84
+      },
+      "Chance": 0,
+      "PriceMultiply": 9
+    },
+    "Galaxy": {
+      "Display": "Galaxy",
+      "Color": {
+        "B": 145,
+        "G": 72,
+        "R": 68
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Wicked": {
+      "Display": "Wicked",
+      "Color": {
+        "B": 0,
+        "G": 200,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.7
+    },
+    "Breezed": {
+      "Display": "Breezed",
+      "Color": {
+        "B": 164,
+        "G": 255,
+        "R": 247
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.2
+    },
+    "Smurf": {
+      "Display": "Smurf",
+      "Color": {
+        "B": 239,
+        "G": 167,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Magical": {
+      "Display": "Magical",
+      "Color": {
+        "B": 255,
+        "G": 14,
+        "R": 195
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.2
+    },
+    "Rooted": {
+      "Display": "Rooted",
+      "Color": {
+        "B": 32,
+        "G": 58,
+        "R": 47
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.66
+    },
+    "Tryhard": {
+      "Display": "Tryhard",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 216
+      },
+      "Chance": 0,
+      "PriceMultiply": 10
+    },
+    "Sinister": {
+      "Display": "Sinister",
+      "Color": {
+        "B": 44,
+        "G": 88,
+        "R": 200
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.9
+    },
+    "Red": {
+      "Display": "Red",
+      "Color": {
+        "B": 66,
+        "G": 52,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Oblivion": {
+      "Display": "Oblivion",
+      "Color": {
+        "B": 47,
+        "G": 82,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Bubblegum": {
+      "Display": "Bubblegum",
+      "Color": {
+        "B": 208,
+        "G": 99,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Aureolin": {
+      "Display": "Aureolin",
+      "Color": {
+        "B": 1,
+        "G": 154,
+        "R": 220
+      },
+      "Chance": 0,
+      "PriceMultiply": 3.5
+    },
+    "Festive": {
+      "Display": "Festive",
+      "Color": {
+        "B": 124,
+        "G": 124,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.4
+    },
+    "Rainbow": {
+      "Display": "Rainbow",
+      "Color": {
+        "B": 234,
+        "G": 158,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Luminescent": {
+      "Display": "Luminescent",
+      "Color": {
+        "B": 255,
+        "G": 226,
+        "R": 82
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.5
+    },
+    "Vined": {
+      "Display": "Vined",
+      "Color": {
+        "B": 122,
+        "G": 206,
+        "R": 120
+      },
+      "Chance": 4,
+      "PriceMultiply": 3.5
+    },
+    "Dirty": {
+      "Display": "Dirty",
+      "Color": {
+        "B": 58,
+        "G": 71,
+        "R": 89
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.3
+    },
+    "Golden": {
+      "Display": "Golden",
+      "Color": {
+        "B": 0,
+        "G": 234,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Nullified": {
+      "Display": "Nullified",
+      "Color": {
+        "B": 66,
+        "G": 255,
+        "R": 94
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Lightened": {
+      "Display": "Lightened",
+      "Color": {
+        "B": 175,
+        "G": 248,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.01
+    },
+    "Merry": {
+      "Display": "Merry",
+      "Color": {
+        "B": 26,
+        "G": 131,
+        "R": 22
+      },
+      "Chance": 1,
+      "PriceMultiply": 5
+    },
+    "Sleet": {
+      "Display": "Sleet",
+      "Color": {
+        "B": 106,
+        "G": 76,
+        "R": 67
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.4
+    },
+    "Yellow": {
+      "Display": "Yellow",
+      "Color": {
+        "B": 96,
+        "G": 231,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Levitas": {
+      "Display": "Levitas",
+      "Color": {
+        "B": 255,
+        "G": 192,
+        "R": 181
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Ghastly": {
+      "Display": "Ghastly",
+      "Color": {
+        "B": 94,
+        "G": 255,
+        "R": 97
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Popsicle": {
+      "Display": "Popsicle",
+      "Color": {
+        "B": 255,
+        "G": 200,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.16
+    },
+    "Electric Shock": {
+      "Display": "Electric Shock",
+      "Color": {
+        "B": 221,
+        "G": 22,
+        "R": 138
+      },
+      "Chance": 0,
+      "PriceMultiply": 3.5
+    },
+    "Fabulous": {
+      "Display": "Fabulous",
+      "Color": {
+        "B": 255,
+        "G": 149,
+        "R": 223
+      },
+      "Chance": 0,
+      "PriceMultiply": 9.3
+    },
+    "Noctic": {
+      "Display": "Noctic",
+      "Color": {
+        "B": 255,
+        "G": 255,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Phantom": {
+      "Display": "Phantom",
+      "Color": {
+        "B": 38,
+        "G": 31,
+        "R": 26
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Duncan": {
+      "Display": "Fixer",
+      "Color": {
+        "B": 255,
+        "G": 85,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.25
+    },
+    "Serene": {
+      "Display": "Serene",
+      "Color": {
+        "B": 225,
+        "G": 255,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Scorched": {
+      "Display": "Scorched",
+      "Color": {
+        "B": 17,
+        "G": 30,
+        "R": 71
+      },
+      "Chance": 9,
+      "PriceMultiply": 3
+    },
+    "Female": {
+      "Display": "Female",
+      "Color": {
+        "B": 255,
+        "G": 0,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Green": {
+      "Display": "Green",
+      "Color": {
+        "B": 106,
+        "G": 255,
+        "R": 92
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Glacial": {
+      "Display": "Glacial",
+      "Color": {
+        "B": 254,
+        "G": 255,
+        "R": 216
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Aurulent": {
+      "Display": "Aurulent",
+      "Color": {
+        "B": 6,
+        "G": 92,
+        "R": 162
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Toxic": {
+      "Display": "Toxic",
+      "Color": {
+        "B": 197,
+        "G": 36,
+        "R": 98
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "King’s Blessing": {
+      "Display": "King's Blessing",
+      "Color": {
+        "B": 127,
+        "G": 255,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5.5
+    },
+    "Easter": {
+      "Display": "Easter",
+      "Color": {
+        "B": 255,
+        "G": 183,
+        "R": 217
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Aurelian": {
+      "Display": "Aurelian",
+      "Color": {
+        "B": 7,
+        "G": 39,
+        "R": 144
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Necrotic": {
+      "Display": "Necrotic",
+      "Color": {
+        "B": 56,
+        "G": 56,
+        "R": 80
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.4
+    },
+    "Mossy": {
+      "Display": "Mossy",
+      "Color": {
+        "B": 107,
+        "G": 135,
+        "R": 93
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.7
+    },
+    "Darkened": {
+      "Display": "Darkened",
+      "Color": {
+        "B": 62,
+        "G": 61,
+        "R": 58
+      },
+      "Chance": 30,
+      "PriceMultiply": 1.5
+    },
+    "Green Leaf": {
+      "Display": "Green Leaf",
+      "Color": {
+        "B": 0,
+        "G": 170,
+        "R": 85
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Oscar": {
+      "Display": "Oscar",
+      "Color": {
+        "B": 26,
+        "G": 0,
+        "R": 171
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.4
+    },
+    "Siren's Spite": {
+      "Display": "Siren's Spite",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 176
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Evil": {
+      "Display": "Evil",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 48
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.5
+    },
+    "Snowy": {
+      "Display": "Snowy",
+      "Color": {
+        "B": 255,
+        "G": 232,
+        "R": 213
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Jack's Curse": {
+      "Display": "Jack's Curse",
+      "Color": {
+        "B": 33,
+        "G": 74,
+        "R": 194
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Minty": {
+      "Display": "Minty",
+      "Color": {
+        "B": 185,
+        "G": 255,
+        "R": 128
+      },
+      "Chance": 0,
+      "PriceMultiply": 3.2
+    },
+    "Glyphed": {
+      "Display": "Glyphed",
+      "Color": {
+        "B": 143,
+        "G": 135,
+        "R": 109
+      },
+      "Chance": 0,
+      "PriceMultiply": 5.2
+    },
+    "Honked": {
+      "Display": "Honked",
+      "Color": {
+        "B": 0,
+        "G": 255,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Madness": {
+      "Display": "Madness",
+      "Color": {
+        "B": 132,
+        "G": 132,
+        "R": 134
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Corvid": {
+      "Display": "Corvid",
+      "Color": {
+        "B": 255,
+        "G": 97,
+        "R": 176
+      },
+      "Chance": 1,
+      "PriceMultiply": 5
+    },
+    "Sanguine": {
+      "Display": "Sanguine",
+      "Color": {
+        "B": 8,
+        "G": 8,
+        "R": 74
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Surreal": {
+      "Display": "Surreal",
+      "Color": {
+        "B": 214,
+        "G": 214,
+        "R": 214
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Infernal": {
+      "Display": "Infernal",
+      "Color": {
+        "B": 2,
+        "G": 44,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Pancake": {
+      "Display": "Pancake",
+      "Color": {
+        "B": 222,
+        "G": 255,
+        "R": 241
+      },
+      "Chance": 0,
+      "PriceMultiply": 0
+    },
+    "Puritas": {
+      "Display": "Puritas",
+      "Color": {
+        "B": 239,
+        "G": 221,
+        "R": 172
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.7
+    },
+    "Fungal": {
+      "Display": "Fungal",
+      "Color": {
+        "B": 106,
+        "G": 255,
+        "R": 138
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Carrot": {
+      "Display": "Carrot",
+      "Color": {
+        "B": 0,
+        "G": 162,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Haunted": {
+      "Display": "Haunted",
+      "Color": {
+        "B": 60,
+        "G": 88,
+        "R": 144
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Brother": {
+      "Display": "Brother",
+      "Color": {
+        "B": 255,
+        "G": 251,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Chaotic": {
+      "Display": "Chaotic",
+      "Color": {
+        "B": 22,
+        "G": 19,
+        "R": 20
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Nightmare": {
+      "Display": "Nightmare",
+      "Color": {
+        "B": 193,
+        "G": 73,
+        "R": 29
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.8
+    },
+    "Lightning": {
+      "Display": "Lightning",
+      "Color": {
+        "B": 0,
+        "G": 183,
+        "R": 229
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Glossy": {
+      "Display": "Glossy",
+      "Color": {
+        "B": 255,
+        "G": 226,
+        "R": 146
+      },
+      "Chance": 25,
+      "PriceMultiply": 1.6
+    },
+    "Moon-Kissed": {
+      "Display": "Moon-Kissed",
+      "Color": {
+        "B": 255,
+        "G": 225,
+        "R": 125
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Quiet": {
+      "Display": "Quiet",
+      "Color": {
+        "B": 71,
+        "G": 56,
+        "R": 28
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Translucent": {
+      "Display": "Translucent",
+      "Color": {
+        "B": 191,
+        "G": 255,
+        "R": 135
+      },
+      "Chance": 20,
+      "PriceMultiply": 1.3
+    },
+    "Aurora": {
+      "Display": "Aurora",
+      "Color": {
+        "B": 217,
+        "G": 255,
+        "R": 78
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.5
+    },
+    "Sacratus": {
+      "Display": "Sacratus",
+      "Color": {
+        "B": 255,
+        "G": 142,
+        "R": 107
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Soulless": {
+      "Display": "Soulless",
+      "Color": {
+        "B": 197,
+        "G": 83,
+        "R": 146
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.66
+    },
+    "Mayhem": {
+      "Display": "Mayhem",
+      "Color": {
+        "B": 169,
+        "G": 169,
+        "R": 197
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Seasonal": {
+      "Display": "Seasonal",
+      "Color": {
+        "B": 37,
+        "G": 37,
+        "R": 225
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.3
+    },
+    "Negative": {
+      "Display": "Negative",
+      "Color": {
+        "B": 226,
+        "G": 103,
+        "R": 117
+      },
+      "Chance": 30,
+      "PriceMultiply": 1.3
+    },
+    "Mosaic": {
+      "Display": "Mosaic",
+      "Color": {
+        "B": 255,
+        "G": 193,
+        "R": 251
+      },
+      "Chance": 10,
+      "PriceMultiply": 1.5
+    },
+    "Ashen Fortune": {
+      "Display": "Ashen Fortune",
+      "Color": {
+        "B": 0,
+        "G": 170,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Emberflame": {
+      "Display": "Emberflame",
+      "Color": {
+        "B": 0,
+        "G": 170,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Bloom": {
+      "Display": "Bloom",
+      "Color": {
+        "B": 127,
+        "G": 85,
+        "R": 85
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "RainbowCluster": {
+      "Display": "Rainbow Cluster",
+      "Color": {
+        "B": 194,
+        "G": 147,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Crystalized": {
+      "Display": "Crystalized",
+      "Color": {
+        "B": 20,
+        "G": 114,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 3.5
+    },
+    "Wrath": {
+      "Display": "Wrath",
+      "Color": {
+        "B": 127,
+        "G": 170,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Zora": {
+      "Display": "Mission Specialist",
+      "Color": {
+        "B": 0,
+        "G": 85,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.25
+    },
+    "Lustrous": {
+      "Display": "Lustrous",
+      "Color": {
+        "B": 147,
+        "G": 232,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Solarblaze": {
+      "Display": "Solarblaze",
+      "Color": {
+        "B": 0,
+        "G": 106,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Spooky": {
+      "Display": "Spooky",
+      "Color": {
+        "B": 81,
+        "G": 151,
+        "R": 220
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Studded": {
+      "Display": "Studded",
+      "Color": {
+        "B": 165,
+        "G": 162,
+        "R": 163
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.8
+    },
+    "Blessed": {
+      "Display": "Blessed",
+      "Color": {
+        "B": 211,
+        "G": 255,
+        "R": 249
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Nico's Nyantics": {
+      "Display": "Nico's Nyantics",
+      "Color": {
+        "B": 255,
+        "G": 184,
+        "R": 235
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Fortune": {
+      "Display": "Fortune",
+      "Color": {
+        "B": 0,
+        "G": 204,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Radiant": {
+      "Display": "Radiant",
+      "Color": {
+        "B": 147,
+        "G": 174,
+        "R": 176
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Tormented": {
+      "Display": "Tormented",
+      "Color": {
+        "B": 27,
+        "G": 27,
+        "R": 34
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.66
+    },
+    "Jolly": {
+      "Display": "Jolly",
+      "Color": {
+        "B": 19,
+        "G": 94,
+        "R": 16
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.2
+    },
+    "Celestial": {
+      "Display": "Celestial",
+      "Color": {
+        "B": 108,
+        "G": 226,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Electric": {
+      "Display": "Electric",
+      "Color": {
+        "B": 99,
+        "G": 245,
+        "R": 255
+      },
+      "Chance": 15,
+      "PriceMultiply": 2.1
+    },
+    "Albino": {
+      "Display": "Albino",
+      "Color": {
+        "B": 255,
+        "G": 254,
+        "R": 252
+      },
+      "Chance": 30,
+      "PriceMultiply": 1.2
+    },
+    "Heavenly": {
+      "Display": "Heavenly",
+      "Color": {
+        "B": 197,
+        "G": 248,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Distraught": {
+      "Display": "Distraught",
+      "Color": {
+        "B": 15,
+        "G": 15,
+        "R": 15
+      },
+      "Chance": 0,
+      "PriceMultiply": 8.5
+    },
+    "Fossilized": {
+      "Display": "Fossilized",
+      "Color": {
+        "B": 255,
+        "G": 181,
+        "R": 208
+      },
+      "Chance": 4,
+      "PriceMultiply": 3.3
+    },
+    "Jingle Bell": {
+      "Display": "Jingle Bell",
+      "Color": {
+        "B": 102,
+        "G": 217,
+        "R": 255
+      },
+      "Chance": 1,
+      "PriceMultiply": 8
+    },
+    "Prismize": {
+      "Display": "Prismize",
+      "Color": {
+        "B": 62,
+        "G": 0,
+        "R": 41
+      },
+      "Chance": 0,
+      "PriceMultiply": 5.5
+    },
+    "Nocturnal_Day": {
+      "Display": "Diurnal",
+      "Color": {
+        "B": 122,
+        "G": 122,
+        "R": 122
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Venomous": {
+      "Display": "Venomous",
+      "Color": {
+        "B": 177,
+        "G": 90,
+        "R": 129
+      },
+      "Chance": 0,
+      "PriceMultiply": 6.5
+    },
+    "Abyssal": {
+      "Display": "Abyssal",
+      "Color": {
+        "B": 212,
+        "G": 15,
+        "R": 12
+      },
+      "Chance": 5,
+      "PriceMultiply": 5.5
+    },
+    "Gleebous": {
+      "Display": "Gleebous",
+      "Color": {
+        "B": 98,
+        "G": 255,
+        "R": 169
+      },
+      "Chance": 50,
+      "PriceMultiply": 8
+    },
+    "Blue": {
+      "Display": "Blue",
+      "Color": {
+        "B": 255,
+        "G": 169,
+        "R": 71
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Tentacle Surge": {
+      "Display": "Tentacle Surge",
+      "Color": {
+        "B": 255,
+        "G": 170,
+        "R": 170
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.8
+    },
+    "Nova": {
+      "Display": "Nova",
+      "Color": {
+        "B": 255,
+        "G": 120,
+        "R": 147
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Henry": {
+      "Display": "Paleontologist",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 170
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.25
+    },
+    "Charred": {
+      "Display": "Charred",
+      "Color": {
+        "B": 76,
+        "G": 76,
+        "R": 76
+      },
+      "Chance": 0,
+      "PriceMultiply": 0.5
+    },
+    "Pink": {
+      "Display": "Pink",
+      "Color": {
+        "B": 252,
+        "G": 103,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Harmonized": {
+      "Display": "Harmonized",
+      "Color": {
+        "B": 255,
+        "G": 176,
+        "R": 201
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.2
+    },
+    "Gingerbread": {
+      "Display": "Gingerbread",
+      "Color": {
+        "B": 43,
+        "G": 70,
+        "R": 140
+      },
+      "Chance": 1,
+      "PriceMultiply": 5
+    },
+    "Cracked": {
+      "Display": "Cracked",
+      "Color": {
+        "B": 54,
+        "G": 0,
+        "R": 36
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Atlantean": {
+      "Display": "Atlantean",
+      "Color": {
+        "B": 149,
+        "G": 153,
+        "R": 34
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Firework": {
+      "Display": "Firework",
+      "Color": {
+        "B": 255,
+        "G": 126,
+        "R": 135
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Skrunkly": {
+      "Display": "Skrunkly",
+      "Color": {
+        "B": 147,
+        "G": 170,
+        "R": 176
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Lucid": {
+      "Display": "Lucid",
+      "Color": {
+        "B": 255,
+        "G": 124,
+        "R": 161
+      },
+      "Chance": 0,
+      "PriceMultiply": 3.5
+    },
+    "Frozen": {
+      "Display": "Frozen",
+      "Color": {
+        "B": 230,
+        "G": 255,
+        "R": 131
+      },
+      "Chance": 10,
+      "PriceMultiply": 1.5
+    },
+    "Hexed": {
+      "Display": "Hexed",
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 166
+      },
+      "Chance": 15,
+      "PriceMultiply": 3
+    },
+    "Aurous": {
+      "Display": "Aurous",
+      "Color": {
+        "B": 10,
+        "G": 10,
+        "R": 115
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.5
+    },
+    "Sunken": {
+      "Display": "Sunken",
+      "Color": {
+        "B": 255,
+        "G": 93,
+        "R": 23
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Tidal": {
+      "Display": "Tidal",
+      "Color": {
+        "B": 255,
+        "G": 182,
+        "R": 47
+      },
+      "Chance": 0,
+      "PriceMultiply": 7
+    },
+    "Jackpot": {
+      "Display": "Jackpot",
+      "Color": {
+        "B": 111,
+        "G": 255,
+        "R": 75
+      },
+      "Chance": 0,
+      "PriceMultiply": 7.77
+    },
+    "Sandy": {
+      "Display": "Sandy",
+      "Color": {
+        "B": 161,
+        "G": 195,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1.2
+    },
+    "BlueMoon": {
+      "Display": "Blue Moon",
+      "Color": {
+        "B": 255,
+        "G": 149,
+        "R": 78
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Blarney": {
+      "Display": "Blarney",
+      "Color": {
+        "B": 19,
+        "G": 159,
+        "R": 56
+      },
+      "Chance": 0,
+      "PriceMultiply": 4.5
+    },
+    "Gravy": {
+      "Display": "Gravy",
+      "Color": {
+        "B": 31,
+        "G": 49,
+        "R": 85
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Botanic": {
+      "Display": "Botanic",
+      "Color": {
+        "B": 128,
+        "G": 255,
+        "R": 145
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.5
+    },
+    "Silver": {
+      "Display": "Silver",
+      "Color": {
+        "B": 255,
+        "G": 238,
+        "R": 206
+      },
+      "Chance": 15,
+      "PriceMultiply": 1.8
+    },
+    "Rockstar": {
+      "Display": "Rockstar",
+      "Color": {
+        "B": 35,
+        "G": 35,
+        "R": 188
+      },
+      "Chance": 0,
+      "PriceMultiply": 2
+    },
+    "Midas": {
+      "Display": "Midas",
+      "Color": {
+        "B": 71,
+        "G": 154,
+        "R": 255
+      },
+      "Chance": 3,
+      "PriceMultiply": 2.5
+    },
+    "Gemstone": {
+      "Display": "Gemstone",
+      "Color": {
+        "B": 239,
+        "G": 0,
+        "R": 167
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    },
+    "Blighted": {
+      "Display": "Blighted",
+      "Color": {
+        "B": 207,
+        "G": 80,
+        "R": 106
+      },
+      "Chance": 0,
+      "PriceMultiply": 3
+    },
+    "Lunar": {
+      "Display": "Lunar",
+      "Color": {
+        "B": 255,
+        "G": 169,
+        "R": 189
+      },
+      "Chance": 20,
+      "PriceMultiply": 2.5
+    },
+    "Nuclear": {
+      "Display": "Nuclear",
+      "Color": {
+        "B": 0,
+        "G": 255,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Cursed": {
+      "Display": "Cursed",
+      "Color": {
+        "B": 138,
+        "G": 255,
+        "R": 102
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Permafrost": {
+      "Display": "Permafrost",
+      "Color": {
+        "B": 131,
+        "G": 96,
+        "R": 64
+      },
+      "Chance": 0,
+      "PriceMultiply": 10
+    },
+    "Eerie": {
+      "Display": "Eerie",
+      "Color": {
+        "B": 114,
+        "G": 211,
+        "R": 84
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Unsellable": {
+      "Display": "Unsellable",
+      "Color": {
+        "B": 76,
+        "G": 76,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 0
+    },
+    "Chilled": {
+      "Display": "Chilled",
+      "Color": {
+        "B": 232,
+        "G": 232,
+        "R": 172
+      },
+      "Chance": 0,
+      "PriceMultiply": 6
+    },
+    "Upside-Down": {
+      "Display": "Upside-Down",
+      "Color": {
+        "B": 178,
+        "G": 195,
+        "R": 207
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Anomalous": {
+      "Display": "Anomalous",
+      "Color": {
+        "B": 43,
+        "G": 43,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 5.55
+    },
+    "Greedy": {
+      "Display": "Greedy",
+      "Color": {
+        "B": 38,
+        "G": 194,
+        "R": 255
+      },
+      "Chance": 1.5,
+      "PriceMultiply": 5
+    },
+    "Amber": {
+      "Display": "Amber",
+      "Color": {
+        "B": 51,
+        "G": 116,
+        "R": 255
+      },
+      "Chance": 8,
+      "PriceMultiply": 1.2
+    },
+    "Stardust": {
+      "Display": "Stardust",
+      "Color": {
+        "B": 255,
+        "G": 34,
+        "R": 0
+      },
+      "Chance": 0,
+      "PriceMultiply": 4
+    },
+    "Atomic": {
+      "Display": "Atomic",
+      "Color": {
+        "B": 0,
+        "G": 255,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 8
+    },
+    "Putrid": {
+      "Display": "Putrid",
+      "Color": {
+        "B": 49,
+        "G": 88,
+        "R": 67
+      },
+      "Chance": 0,
+      "PriceMultiply": -0.5
+    },
+    "Oak": {
+      "Display": "Oak",
+      "Color": {
+        "B": 54,
+        "G": 83,
+        "R": 118
+      },
+      "Chance": 0,
+      "PriceMultiply": 2.3
+    },
+    "Neon": {
+      "Display": "Neon",
+      "Color": {
+        "B": 126,
+        "G": 229,
+        "R": 255
+      },
+      "Chance": 0,
+      "PriceMultiply": 1
+    },
+    "Galactic": {
+      "Display": "Galactic",
+      "Color": {
+        "B": 106,
+        "G": 182,
+        "R": 207
+      },
+      "Chance": 0,
+      "PriceMultiply": 5
+    }
+  }
+}
