@@ -1,0 +1,1288 @@
+[
+  {
+    "description": "It gets hotter down there.",
+    "id": "CaptainRowanQuest4",
+    "rewards": {
+      "Quest": "CaptainRowanQuest5",
+      "XP": 4250,
+      "Gold": 9500
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan 4",
+    "objectives": [
+      {
+        "Target": "Axe Skeleton",
+        "Type": "Kill",
+        "Amount": 35
+      },
+      {
+        "Target": "Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 45
+      },
+      {
+        "Target": "Elite Rogue Skeleton",
+        "Type": "Kill",
+        "Amount": 10
+      },
+      {
+        "Target": "Elite Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 1
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "Enhance any piece to +3 and prepare for the trials ahead.",
+    "id": "Introduction8",
+    "rewards": {
+      "Rune": {
+        "Fire_T1": 1,
+        "Pickaxe_T1": 1,
+        "Shield_T1": 1
+      },
+      "Quest": "Introduction9",
+      "XP": 100,
+      "Gold": 50
+    },
+    "npc": "Sensei Moro",
+    "name": "The First Upgrade",
+    "objectives": [
+      {
+        "Type": "Enhance",
+        "Description": "Enhance any item to +3.",
+        "Amount": 1,
+        "Target": "Any",
+        "SpecialCondition": null,
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "A seasoned miner has heard of your skills and challenges you to collect 100 ores. Prove your worth and receive a mighty reward!",
+    "id": "Weekly1",
+    "rewards": {
+      "XP": 500,
+      "Gold": 1000
+    },
+    "npc": "Not Real Ceypai",
+    "name": "The Miner’s Challenge",
+    "objectives": [
+      {
+        "Target": "Ore",
+        "Type": "Collect",
+        "Amount": 500
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "Mine the core of the earth and the gate of inferno.",
+    "id": "Island2Quest8",
+    "rewards": {
+      "Quest": "Island2Quest9",
+      "XP": 5500,
+      "Gold": 9500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 8",
+    "objectives": [
+      {
+        "Target": "Mythril",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Lightite",
+        "Type": "Collect",
+        "Amount": 1
+      },
+      {
+        "Target": "Basalt Vein",
+        "Type": "Mine",
+        "Amount": 15
+      },
+      {
+        "Target": "Volcanic Rock",
+        "Type": "Mine",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Mine the deepest parts of the Volcanic Dpeth",
+    "id": "Island2Quest9",
+    "rewards": {
+      "Quest": "Island2QuestFinal",
+      "XP": 7500,
+      "Gold": 12500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 9",
+    "objectives": [
+      {
+        "Target": "Volcanic Rock",
+        "Type": "Collect",
+        "Amount": 15
+      },
+      {
+        "Target": "Obsidian",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Basalt Vein",
+        "Type": "Mine",
+        "Amount": 50
+      },
+      {
+        "Target": "Volcanic Rock",
+        "Type": "Mine",
+        "Amount": 25
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Give items to 'Goblin King'.",
+    "id": "GoblinKingQuest3",
+    "rewards": {
+      "XP": 2500,
+      "Quest": "GoblinKingQuest4"
+    },
+    "npc": "Goblin King",
+    "name": "Goblin King 3",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 5 Diamond and 15000 gold.",
+        "Target": "Goblin King",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Apply a rune to your equipment and unlock its strength.",
+    "id": "Introduction9",
+    "rewards": {
+      "Quest": "Introduction10",
+      "XP": 100,
+      "Gold": 50
+    },
+    "npc": "Sensei Moro",
+    "name": "Runes of Power",
+    "objectives": [
+      {
+        "Type": "RuneAttach",
+        "Description": "Attach a rune to any equipment.",
+        "Amount": 1,
+        "Target": "Any",
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Return and talk to Sensei Moro.",
+    "id": "Introduction10",
+    "rewards": {
+      "Quest": "Introduction11",
+      "XP": 75,
+      "Gold": 50
+    },
+    "npc": "Sensei Moro",
+    "name": "End of the Beginning",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Amount": 1,
+        "Target": "Sensei Moro",
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Let's learn to forge.",
+    "id": "Introduction2",
+    "rewards": {
+      "Quest": "Introduction3",
+      "XP": 125,
+      "Gold": 125
+    },
+    "npc": "Sensei Moro",
+    "name": "Learning to Forge!",
+    "objectives": [
+      {
+        "Target": "Weapon",
+        "Type": "Forge",
+        "BeamTarget": null,
+        "Amount": 2
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Help Amber deal with elite threats.",
+    "id": "Daily_EliteHunt",
+    "rewards": {
+      "Rune": {
+        "Fire_T1": 1
+      },
+      "Material": {
+        "Epic Essence": 10
+      },
+      "XP": 1750,
+      "Gold": 6500
+    },
+    "npc": "Amber",
+    "name": "Elite Threat",
+    "objectives": [
+      {
+        "Target": "Elite Rogue Skeleton",
+        "Type": "Kill",
+        "Amount": 30
+      },
+      {
+        "Target": "Elite Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 15
+      },
+      {
+        "Target": "Blazing Slime",
+        "Type": "Kill",
+        "Amount": 10
+      },
+      {
+        "Target": "Reaper",
+        "Type": "Kill",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Find Bard's Guitar.",
+    "id": "BardQuest",
+    "rewards": {
+      "Badge": "TheGuitarFinder",
+      "XP": 250,
+      "Gold": 500
+    },
+    "npc": "Bard",
+    "name": "Lost Guitar",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring the Guitar.",
+        "Target": "Bard",
+        "MarkerWaitForQuest": true,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "High risk = High reward",
+    "id": "CaptainRowanQuest3",
+    "rewards": {
+      "Quest": "CaptainRowanQuest4",
+      "XP": 2250,
+      "Gold": 5750
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan 3",
+    "objectives": [
+      {
+        "Target": "Skeleton Rogue",
+        "Type": "Kill",
+        "Amount": 35
+      },
+      {
+        "Target": "Axe Skeleton",
+        "Type": "Kill",
+        "Amount": 15
+      },
+      {
+        "Target": "Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 5
+      },
+      {
+        "Target": "Eye Ore",
+        "Type": "Extra",
+        "Description": "Bring 1 Eye Ore."
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Forge armors to improve your defense.",
+    "id": "Introduction5",
+    "rewards": {
+      "Quest": "Introduction6",
+      "XP": 200,
+      "Gold": 250
+    },
+    "npc": "Sensei Moro",
+    "name": "Preparing For Battle",
+    "objectives": [
+      {
+        "Target": "Armor",
+        "Type": "Forge",
+        "BeamTarget": null,
+        "Amount": 2
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Clear out the zombies infesting the cave.",
+    "id": "Zombie1",
+    "rewards": null,
+    "npc": "UmutTheBrave",
+    "name": "Rotten Depths",
+    "objectives": [
+      {
+        "Target": "Zombie",
+        "Type": "Kill",
+        "Amount": null
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": true
+  },
+  {
+    "description": "Grab your new pickaxe and get to mining.",
+    "id": "Introduction4",
+    "rewards": {
+      "Quest": "Introduction5",
+      "XP": 175,
+      "Gold": 500
+    },
+    "npc": "Sensei Moro",
+    "name": "New Pickaxe!",
+    "objectives": [
+      {
+        "Type": "Collect",
+        "Description": "Purchase 'Bronze Pickaxe'",
+        "Amount": 1,
+        "Target": "Bronze Pickaxe",
+        "BeamTarget": null,
+        "IncludeProgress": true,
+        "Marker": null
+      },
+      {
+        "Target": "Ore",
+        "Type": "Collect",
+        "BeamTarget": null,
+        "Amount": 10
+      },
+      {
+        "Target": "Zombie",
+        "Type": "Kill",
+        "Amount": 1
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Give last items to 'Goblin King'.",
+    "id": "GoblinKingQuestFinal",
+    "rewards": {
+      "XP": 7500,
+      "Badge": "ScammedByTheKing"
+    },
+    "npc": "Goblin King",
+    "name": "Let's get over it!",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 5 Ruby and 25000 gold.",
+        "Target": "Goblin King",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Collect various resources through mining.",
+    "id": "Mining1",
+    "rewards": null,
+    "npc": "Nord",
+    "name": "The Basics of Mining",
+    "objectives": [
+      {
+        "Target": "Stone",
+        "Type": "Collect",
+        "Amount": null
+      },
+      {
+        "Target": null,
+        "Type": "Collect",
+        "Amount": null
+      },
+      {
+        "Target": "Copper",
+        "Type": "Collect",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": true
+  },
+  {
+    "description": "Equip one of the weapons, then sell the other.",
+    "id": "Introduction3",
+    "rewards": {
+      "Quest": "Introduction4",
+      "XP": 125,
+      "Gold": 0
+    },
+    "npc": "Sensei Moro",
+    "name": "Getting Equipped!",
+    "objectives": [
+      {
+        "Target": "Weapon",
+        "Type": "EquipWeapon",
+        "Description": "Equip Weapon",
+        "Amount": 1
+      },
+      {
+        "Type": "Sell",
+        "Description": "Sell Weapon",
+        "Amount": 1,
+        "Target": "Weapon",
+        "BeamTarget": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Find Tomo's Cat.",
+    "id": "TomoQuest",
+    "rewards": {
+      "Badge": "ProfessionalRescuer",
+      "Title": "CatLover",
+      "XP": 7500,
+      "Gold": 12500
+    },
+    "npc": "Tomo",
+    "name": "Lost Cat :(",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring the Cat.",
+        "Target": "Tomo",
+        "MarkerWaitForQuest": true,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Epic Ores requires epic work.",
+    "id": "Island2Quest5",
+    "rewards": {
+      "Quest": "Island2Quest6",
+      "XP": 2350,
+      "Gold": 6500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 5",
+    "objectives": [
+      {
+        "Target": "Diamond",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Sapphire",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Basalt Rock",
+        "Type": "Mine",
+        "Amount": 25
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 40
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Bring more rare ores.",
+    "id": "Island2Quest3",
+    "rewards": {
+      "Quest": "Island2Quest4",
+      "XP": 1000,
+      "Gold": 4500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 3",
+    "objectives": [
+      {
+        "Target": "Titanium",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Lapis Lazuli",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Basalt Rock",
+        "Type": "Mine",
+        "Amount": 25
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Captain's last task, you're a true hero.",
+    "id": "CaptainRowanQuestFinal",
+    "rewards": {
+      "Spins": 1,
+      "XP": 12500,
+      "Gold": 25500
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan Final",
+    "objectives": [
+      {
+        "Target": "Elite Rogue Skeleton",
+        "Type": "Kill",
+        "Amount": 50
+      },
+      {
+        "Target": "Elite Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 40
+      },
+      {
+        "Target": "Blazing Slime",
+        "Type": "Kill",
+        "Amount": 25
+      },
+      {
+        "Target": "Reaper",
+        "Type": "Kill",
+        "Amount": 5
+      },
+      {
+        "Target": "Epic Essence",
+        "Type": "Extra",
+        "Description": "Bring 30 Epic Essence."
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Find the rarest ores to the forge!",
+    "id": "Island2QuestFinal",
+    "rewards": {
+      "Spins": 1,
+      "XP": 10000,
+      "Gold": 25000
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro Final",
+    "objectives": [
+      {
+        "Target": "Fireite",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Magmaite",
+        "Type": "Collect",
+        "Amount": 2
+      },
+      {
+        "Target": "Demonite",
+        "Type": "Collect",
+        "Amount": 1
+      },
+      {
+        "Target": "Darkryte",
+        "Type": "Collect",
+        "Amount": 1
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 125
+      },
+      {
+        "Target": "Basalt Vein",
+        "Type": "Mine",
+        "Amount": 75
+      },
+      {
+        "Target": "Volcanic Rock",
+        "Type": "Mine",
+        "Amount": 50
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Bigger the rocks, rarer the ores.",
+    "id": "Island2Quest6",
+    "rewards": {
+      "Quest": "Island2Quest7",
+      "XP": 3250,
+      "Gold": 7500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 6",
+    "objectives": [
+      {
+        "Target": "Cuprite",
+        "Type": "Collect",
+        "Amount": 2
+      },
+      {
+        "Target": "Emerald",
+        "Type": "Collect",
+        "Amount": 2
+      },
+      {
+        "Target": "Eye Ore",
+        "Type": "Collect",
+        "Amount": 1
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 25
+      },
+      {
+        "Target": "Basalt Vein",
+        "Type": "Mine",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Eliminate undead forces.",
+    "id": "Daily_SkeletalThreat",
+    "rewards": {
+      "Material": {
+        "Epic Essence": 5
+      },
+      "XP": 1250,
+      "Gold": 2500
+    },
+    "npc": "Masked Stranger",
+    "name": "Skeletal Threat",
+    "objectives": [
+      {
+        "Target": "Skeleton Rogue",
+        "Type": "Kill",
+        "Amount": 50
+      },
+      {
+        "Target": "Axe Skeleton",
+        "Type": "Kill",
+        "Amount": 30
+      },
+      {
+        "Target": "Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 15
+      },
+      {
+        "Target": "Bomber",
+        "Type": "Kill",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Help captain to clear out the Volcanic Depths.",
+    "id": "CaptainRowanQuest5",
+    "rewards": {
+      "Quest": "CaptainRowanQuestFinal",
+      "XP": 6500,
+      "Gold": 14500
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan 5",
+    "objectives": [
+      {
+        "Target": "Elite Rogue Skeleton",
+        "Type": "Kill",
+        "Amount": 35
+      },
+      {
+        "Target": "Elite Deathaxe Skeleton",
+        "Type": "Kill",
+        "Amount": 25
+      },
+      {
+        "Target": "Blazing Slime",
+        "Type": "Kill",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "Battle enemies, gather materials, and prove your forging prowess.",
+    "id": "Introduction6",
+    "rewards": {
+      "Quest": "Introduction7",
+      "XP": 300,
+      "Gold": 1500
+    },
+    "npc": "Sensei Moro",
+    "name": "Forging Under Pressure",
+    "objectives": [
+      {
+        "Type": "Collect",
+        "Description": "Purchase 'Iron Pickaxe'",
+        "Amount": 1,
+        "Target": "Iron Pickaxe",
+        "BeamTarget": null,
+        "IncludeProgress": true,
+        "Marker": null
+      },
+      {
+        "Target": "Zombie",
+        "Type": "Kill",
+        "Amount": 3
+      },
+      {
+        "Target": "Any",
+        "Type": "Forge",
+        "Amount": 3
+      },
+      {
+        "Target": "Ore",
+        "Type": "Collect",
+        "Amount": 35
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Talk to 'Sensei Moro' to get started.",
+    "id": "Introduction0",
+    "rewards": {
+      "XP": 5
+    },
+    "npc": "Sensei Moro",
+    "name": "Getting Started!",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Target": "Sensei Moro",
+        "BeamTarget": null,
+        "MarkerWaitForQuest": true,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Defeat undead enemies of the Forgotten Cave.",
+    "id": "CaptainRowanQuest2",
+    "rewards": {
+      "Quest": "CaptainRowanQuest3",
+      "XP": 1250,
+      "Gold": 2500
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan 2",
+    "objectives": [
+      {
+        "Target": "Skeleton Rogue",
+        "Type": "Kill",
+        "Amount": 15
+      },
+      {
+        "Target": "Axe Skeleton",
+        "Type": "Kill",
+        "Amount": 5
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "Meet with Sensei Moro in Forgotten Kingdom.",
+    "id": "Island2Quest0",
+    "rewards": {
+      "XP": 250,
+      "Gold": 750
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Getting to Forgotten Kingdom",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Description": "Talk to 'Sensei Moro'.",
+        "Target": "Sensei Moro 2",
+        "BeamTarget": null,
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Barakkulf needs help clearing basalt deposits.",
+    "id": "Daily_Mine",
+    "rewards": {
+      "Ore": {
+        "Lapis Lazuli": 5,
+        "Cobalt": 8,
+        "Titanium": 10
+      },
+      "XP": 1750,
+      "Gold": 5000
+    },
+    "npc": "Barakkulf",
+    "name": "Basalt Extraction",
+    "objectives": [
+      {
+        "Target": "Basalt Rock",
+        "Type": "Mine",
+        "Amount": 150
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 50
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Bring in what 'Skal' asked for.",
+    "id": "SkalQuest",
+    "rewards": {
+      "XP": 500,
+      "Gold": 1250
+    },
+    "npc": "Skal",
+    "name": "Demonite Key",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 3 Demonites.",
+        "Target": "Skal",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Monke is hungry, find some food for it.",
+    "id": "MonkeQuest",
+    "rewards": {
+      "Badge": "MonkeBusiness",
+      "XP": 5000,
+      "Gold": 10000
+    },
+    "npc": "Monke",
+    "name": "Monke need Bananite",
+    "objectives": [
+      {
+        "Target": "None",
+        "Type": "Extra",
+        "Description": "Bring Monke 30 bananite"
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Return and report your progress.",
+    "id": "Introduction7",
+    "rewards": {
+      "Quest": "Introduction8",
+      "Material": {
+        "Small Essence": 15,
+        "Large Essence": 6,
+        "Tiny Essence": 20,
+        "Medium Essence": 10
+      },
+      "XP": 75,
+      "Gold": 50
+    },
+    "npc": "Sensei Moro",
+    "name": "Reporting In",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Amount": 1,
+        "Target": "Sensei Moro",
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Give items to 'Goblin King'.",
+    "id": "GoblinKingQuest2",
+    "rewards": {
+      "XP": 1500,
+      "Quest": "GoblinKingQuest3"
+    },
+    "npc": "Goblin King",
+    "name": "Goblin King 2",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 3 Topaz and 10000 gold.",
+        "Target": "Goblin King",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Line needs special ores for a potion recipe.",
+    "id": "Island2SideQuestLine",
+    "rewards": {
+      "XP": 3500,
+      "Badge": "YouPassedLinesStandards"
+    },
+    "npc": "Link",
+    "name": "Line's Needs",
+    "objectives": [
+      {
+        "Target": "None",
+        "Type": "Extra",
+        "Description": "Bring 3 Fireite to Line."
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Give items to 'Goblin King'.",
+    "id": "GoblinKingQuest1",
+    "rewards": {
+      "XP": 1000,
+      "Quest": "GoblinKingQuest2"
+    },
+    "npc": "Goblin King",
+    "name": "Goblin King 1",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 5000 gold.",
+        "Target": "Goblin King",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Isaac needs your help.",
+    "id": "Island2SideQuestIsaac",
+    "rewards": {
+      "XP": 1000,
+      "Badge": "CureForIsaac"
+    },
+    "npc": "Isaac",
+    "name": "Cure for Isaac",
+    "objectives": [
+      {
+        "Target": "None",
+        "Type": "Extra",
+        "Description": "Bring 1 'Health Potion' to Isaac."
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Moro needs more ores.",
+    "id": "Island2Quest7",
+    "rewards": {
+      "Quest": "Island2Quest8",
+      "XP": 4750,
+      "Gold": 8500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 7",
+    "objectives": [
+      {
+        "Target": "Ruby",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Rivalite",
+        "Type": "Collect",
+        "Amount": 2
+      },
+      {
+        "Target": "Uranium",
+        "Type": "Collect",
+        "Amount": 1
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 30
+      },
+      {
+        "Target": "Basalt Vein",
+        "Type": "Mine",
+        "Amount": 15
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Give items to 'Goblin King'.",
+    "id": "GoblinKingQuest4",
+    "rewards": {
+      "XP": 4500,
+      "Quest": "GoblinKingQuestFinal"
+    },
+    "npc": "Goblin King",
+    "name": "Goblin King 4",
+    "objectives": [
+      {
+        "Type": "Extra",
+        "Description": "Bring 5 Emerald and 20000 gold.",
+        "Target": "Goblin King",
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "The path of the true forger",
+    "id": "Island2Quest4",
+    "rewards": {
+      "Quest": "Island2Quest5",
+      "XP": 1750,
+      "Gold": 5500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 4",
+    "objectives": [
+      {
+        "Target": "Quartz",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Amethyst",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Topaz",
+        "Type": "Collect",
+        "Amount": 5
+      },
+      {
+        "Target": "Basalt Rock",
+        "Type": "Mine",
+        "Amount": 35
+      },
+      {
+        "Target": "Basalt Core",
+        "Type": "Mine",
+        "Amount": 25
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Mine Rocks and bring Cobalt.",
+    "id": "Island2Quest2",
+    "rewards": {
+      "Quest": "Island2Quest3",
+      "XP": 500,
+      "Gold": 2500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "Sensei Moro 2",
+    "objectives": [
+      {
+        "Target": "Cobalt",
+        "Type": "Collect",
+        "Amount": 3
+      },
+      {
+        "Target": "Basalt Rock",
+        "Type": "Mine",
+        "Amount": 10
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Visit Wizard's Tower and talk with him.",
+    "id": "Introduction11",
+    "rewards": {
+      "Spins": 2,
+      "XP": 150,
+      "Gold": 250
+    },
+    "npc": "Wizard",
+    "name": "Everything starts now.",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Description": "Talk to the Wizard.",
+        "Amount": 1,
+        "Target": "Wizard",
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "Equip the given stone pickaxe to get started with your journey.",
+    "id": "Introduction1",
+    "rewards": {
+      "Quest": "Introduction2",
+      "XP": 50,
+      "Gold": 25
+    },
+    "npc": "Sensei Moro",
+    "name": "First Pickaxe!",
+    "objectives": [
+      {
+        "Target": "Equipments",
+        "Type": "UI"
+      },
+      {
+        "Target": "Pickaxe",
+        "Type": "Equip",
+        "Description": "Equip Stone Pickaxe",
+        "IncludeProgress": true
+      },
+      {
+        "Type": "Collect",
+        "Amount": 6,
+        "Target": "Ore",
+        "BeamTarget": null,
+        "Marker": null
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Deliver the boxes to 'Captain Rowan'.",
+    "id": "Island2Quest1",
+    "rewards": {
+      "XP": 1250,
+      "Gold": 1500
+    },
+    "npc": "Sensei Moro 2",
+    "name": "New Island!",
+    "objectives": [
+      {
+        "Type": "Talk",
+        "Target": "Captain Rowan",
+        "BeamTarget": null,
+        "MarkerWaitForQuest": true
+      }
+    ],
+    "autoComplete": true,
+    "repeatable": false
+  },
+  {
+    "description": "Help captain to save the town.",
+    "id": "CaptainRowanQuest1",
+    "rewards": {
+      "Quest": "CaptainRowanQuest2",
+      "XP": 500,
+      "Gold": 1250
+    },
+    "npc": "Captain Rowan",
+    "name": "Captain Rowan 1",
+    "objectives": [
+      {
+        "Target": "Skeleton Rogue",
+        "Type": "Kill",
+        "Amount": 10
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  },
+  {
+    "description": "The old man needs your help to get started. Buy a stone pickaxe and equip it to begin your adventure.",
+    "id": "Daily1",
+    "rewards": {
+      "XP": 150,
+      "Gold": 300
+    },
+    "npc": "Ceypai ( Daily Quest )",
+    "name": "The Old Man’s Request",
+    "objectives": [
+      {
+        "Target": "Ore",
+        "Type": "Collect",
+        "Amount": 100
+      }
+    ],
+    "autoComplete": false,
+    "repeatable": false
+  }
+]
